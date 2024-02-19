@@ -1,0 +1,162 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+} */
+
+/* header {
+    padding: 40px;
+    background-color: rgb(17, 124, 143);
+} */
+
+nav {
+    background-color: #333;
+    display: flex;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    float: left;
+    color: white;
+}
+
+/* dropdown--start */
+.dropbtn {
+    /* background-color: #04AA6D; */
+    color: white;
+    height: 100%;
+    text-align: center;
+    padding: 20px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    /* background-color: #f1f1f1; */
+    width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    padding-left:10px ;
+    padding-right:10px ;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #95beff;
+    font-weight:bold ;
+}
+  
+  .dropdown:hover .dropdown-content {
+    display: flex;
+    flex-direction: column;
+}
+  
+  .dropdown:hover .dropbtn {background-color:rgba(255, 123, 123, 0.809);}
+/* dropdown--end */
+
+main {
+    background-color: white;
+    text-align: center;
+}
+
+
+.banner{
+    background-image:url(/assets/ashisthapachhetri.png);
+    height: 20vw;
+    min-height: 100px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 50%;
+    background-color:black;
+    background-attachment: fixed;
+}
+
+
+h2 {
+    padding: 20px;
+}
+
+section:nth-child(even) {
+    background-color: rgb(228, 228, 228);
+}
+
+section {
+    min-height: 100vh;
+}
+
+video {
+    padding: 10px;
+}
+
+iframe {
+    height: 35vh;
+}
+
+img {
+    padding: 10px;
+}
+
+section h5 {
+    margin: 40px;
+}
+
+footer {
+    background-color: #333;
+    overflow: hidden;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+
+
+.sec_table{
+    
+    align-content: end;
+}
+table ,th,tr{
+    padding: 10px;
+    border: 1px solid rgba(10, 228, 163, 0.926) ;
+    border-collapse: collapse;    
+}
+table{
+    border-width: 5px;
+    border-radius: 20;
+}
+
+td{
+    background-color: #95beff;
+}
+th{
+background-color:burlywood
+}

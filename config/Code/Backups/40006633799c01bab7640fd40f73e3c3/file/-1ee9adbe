@@ -1,0 +1,13 @@
+file:///home/ashisthapa/Workspace/Projects/HtmlCssJS/JavaScript/jscript.js {"mtime":1700591645560,"ctime":0,"size":177,"etag":"3bgshah065m","orphaned":false,"typeId":""}
+let btn= document.querySelector('button');
+btn.addEventListener('click',showMsg);
+
+function showMsg(){
+    alert("This button is clicked.")
+
+    btn.textContent="Hello Ashis."
+
+
+
+    "call for the mater plan of the gool the coming plan."
+}

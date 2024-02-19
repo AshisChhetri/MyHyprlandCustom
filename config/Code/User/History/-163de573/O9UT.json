@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "none",
+    "window.menuBarVisibility": "toggle",
+    "editor.guides.bracketPairs": "active",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', 'monospace','GoMono Nerd Font Mono'",
+    "editor.fontLigatures": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.env.linux": {},
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "console-ninja.featureSet": "Community"
+}

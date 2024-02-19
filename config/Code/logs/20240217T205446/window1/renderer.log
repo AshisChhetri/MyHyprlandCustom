@@ -1,0 +1,3 @@
+2024-02-17 20:54:47.259 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/mnt/Software/Linux/ArchCommands","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-02-17 20:54:47.595 [info] Started local extension host with pid 34526.
+2024-02-17 20:54:50.307 [info] [perf] Render performance baseline is 50ms

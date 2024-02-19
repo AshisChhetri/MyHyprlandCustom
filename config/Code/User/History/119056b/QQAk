@@ -1,0 +1,1 @@
+pacman -Qi | grep "Name\|Des"  | sed -e 's/Description    : //g' > ~/Documents/ArchHyprlandMyPackages.txt       

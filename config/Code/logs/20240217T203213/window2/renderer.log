@@ -1,0 +1,11 @@
+2024-02-17 20:40:09.002 [info] Started local extension host with pid 25457.
+2024-02-17 20:40:10.594 [error] [Extension Host] GlassIt error: Error: Command failed: swaymsg opacity 0.59
+/bin/sh: line 1: swaymsg: command not found
+
+2024-02-17 20:40:11.344 [error] [Extension Host] (node:25457) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-17 20:40:12.982 [info] [perf] Render performance baseline is 44ms
+2024-02-17 20:40:13.190 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ashisthapa/Workspace/E-Commerce/.git/.gitstatus.EhhbNI' failed: No such file or directory (EUNKNOWN) (path: /home/ashisthapa/Workspace/E-Commerce)
+2024-02-17 20:40:13.190 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ashisthapa/Workspace/E-Commerce/.git/.gitstatus.EhhbNI' failed: No such file or directory
+2024-02-17 20:40:13.269 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-02-17 20:40:13.270 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown

@@ -1,0 +1,26 @@
+2024-02-14 02:25:35.192 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-14 02:25:42.155 [info] Getting Manifest... angular.ng-template
+2024-02-14 02:25:43.056 [info] Installing extension: angular.ng-template
+2024-02-14 02:31:59.915 [warning] Extension signature verification failed with error 'UnknownError': angular.ng-template
+2024-02-14 02:32:00.627 [info] Extracted extension to file:///home/ashisthapa/.vscode/extensions/angular.ng-template-17.2.0: angular.ng-template
+2024-02-14 02:32:00.640 [info] Renamed to /home/ashisthapa/.vscode/extensions/angular.ng-template-17.2.0
+2024-02-14 02:32:00.642 [info] Extracting extension completed. angular.ng-template
+2024-02-14 02:32:00.653 [info] Extension installed successfully: angular.ng-template
+2024-02-14 02:32:00.656 [info] Marked extension as uninstalled angular.ng-template-17.1.1
+2024-02-14 02:32:00.726 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)

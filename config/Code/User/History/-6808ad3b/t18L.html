@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid challenge 2</title>
+    <style>
+        body{
+            margin:0;
+            padding:0;
+        }
+        .container{
+            display: grid;
+            height: 100vh;
+            gap:20px;
+            grid-template-columns:1fr 4fr 0.7fr;
+            grid-template-rows: 0.2fr auto auto 0.2fr;
+        }
+        .nav{
+
+            grid-row-start:1;
+            grid-row-end:5;
+        }
+        .header{
+            grid-column-start:2;
+            grid-column-end:4;
+        }
+        .footer{
+            grid-column-start:2;
+            grid-column-end:4;
+        }
+        .article{
+            grid-row-start:2;
+            grid-row-end:4;
+        }
+        .ads{
+            grid-column-start:3;
+            grid-column-end: 4;
+            grid-row-start:2;
+            grid-row-end:4;
+
+        }
+
+        .item{
+            padding-top: 20px;
+            padding-left: 20px;
+            background-color: antiquewhite;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item nav">nav</div>
+        <div class="item header">header</div>
+        <div class="item article">article</div>
+        <div class="item ads">ads</div>
+        <div class="item footer">footer</div>
+    </div>
+</body>
+</html>

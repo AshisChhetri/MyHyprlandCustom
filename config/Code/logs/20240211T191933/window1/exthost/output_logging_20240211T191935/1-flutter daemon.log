@@ -1,0 +1,26 @@
+Starting device daemon...
+[ERR] Error 1 retrieving device properties for 22081212UG:
+[ERR] adb: device 'd1bee3b1' not found
+
+[ERR] Error 1 retrieving device properties for d1bee3b1:
+[ERR] adb: device 'd1bee3b1' not found
+
+[ERR] Error 1 retrieving device properties for d1bee3b1:
+[ERR] adb: insufficient permissions for device
+See [http://developer.android.com/tools/device.html] for more information
+
+[ERR] Error 1 retrieving device properties for 22081212UG:
+[ERR] adb: device 'd1bee3b1' not found
+
+[ERR] Error 1 retrieving device properties for 22081212UG:
+[ERR] adb: device 'd1bee3b1' not found
+
+[ERR] Error 1 retrieving device properties for 22081212UG:
+[ERR] adb: device 'd1bee3b1' not found
+
+[ERR] Error 1 retrieving device properties for 22081212UG:
+[ERR] adb: device 'd1bee3b1' not found
+
+[ERR] Error 1 retrieving device properties for 22081212UG:
+[ERR] adb: device 'd1bee3b1' not found
+

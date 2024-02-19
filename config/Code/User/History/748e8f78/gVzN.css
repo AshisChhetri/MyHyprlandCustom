@@ -1,0 +1,15 @@
+
+p{
+    color: rgb(228, 228, 228);
+    margin: 10pxpx 50px;
+    padding:10px;
+    border: 1px solid rgba(70, 70, 70, 0);
+    border-radius: 15px;
+    background-color: rgb(94, 94, 94);
+}
+
+@media screen and (width:600px){
+    body{
+        color: red;
+    }
+}

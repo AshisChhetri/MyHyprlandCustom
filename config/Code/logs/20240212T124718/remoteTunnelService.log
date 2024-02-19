@@ -1,0 +1,37 @@
+2024-02-12 12:47:23.234 [info] Session updated: AshisChhetri (github) (service=false)
+2024-02-12 12:47:23.235 [info] Session token updated: AshisChhetri (github)
+2024-02-12 12:47:23.536 [info] No other tunnel running
+2024-02-12 12:47:23.855 [info] Running tunnel CLI
+
+2024-02-12 12:47:23.855 [info] tunnel Spawning: /opt/visual-studio-code/bin/code-tunnel tunnel --accept-server-license-terms --log info --name macro --parent-process-id 3724
+
+2024-02-12 12:47:24.004 [info] *
+
+2024-02-12 12:47:24.007 [info] * Visual Studio Code Server
+
+2024-02-12 12:47:24.008 [info] *
+
+2024-02-12 12:47:24.009 [info] * By using the software, you agree to
+
+2024-02-12 12:47:24.010 [info] * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+
+2024-02-12 12:47:24.011 [info] * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+
+2024-02-12 12:47:24.014 [info] *
+
+2024-02-12 12:47:27.783 [info] 
+
+2024-02-12 12:47:27.784 [info] Open this link in your browser https://vscode.dev/tunnel/macro
+
+2024-02-12 12:47:27.784 [info] 
+
+2024-02-12 12:53:37.925 [info] [2024-02-12 12:53:37] info [tunnels::connections::ws] websocket pong timed out, closing
+
+2024-02-12 12:53:37.926 [info] [2024-02-12 12:53:37] warn Tunnel exited unexpectedly but gracefully, reconnecting
+
+2024-02-12 12:54:40.461 [info] [2024-02-12 12:54:40] warn Error connecting to relay, will retry: error connecting to tunnel: websocket error: IO error: failed to lookup address information: Temporary failure in name resolution
+
+2024-02-12 13:04:02.297 [info] [2024-02-12 13:04:02] info [tunnels::connections::ws] websocket pong timed out, closing
+
+2024-02-12 13:04:02.301 [info] [2024-02-12 13:04:02] warn Tunnel exited unexpectedly but gracefully, reconnecting
+

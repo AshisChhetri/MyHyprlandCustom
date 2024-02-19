@@ -1,0 +1,63 @@
+2024-02-11 14:37:42.843 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-11 14:43:19.495 [info] Getting Manifest... diemasmichiels.emulate
+2024-02-11 14:43:19.521 [info] Installing extension: diemasmichiels.emulate
+2024-02-11 14:43:21.868 [warning] Extension signature verification failed with error 'UnknownError': diemasmichiels.emulate
+2024-02-11 14:43:21.935 [info] Extracted extension to file:///home/ashisthapa/.vscode/extensions/diemasmichiels.emulate-1.6.0: diemasmichiels.emulate
+2024-02-11 14:43:21.940 [info] Renamed to /home/ashisthapa/.vscode/extensions/diemasmichiels.emulate-1.6.0
+2024-02-11 14:43:21.942 [info] Extracting extension completed. diemasmichiels.emulate
+2024-02-11 14:43:21.955 [info] Extension installed successfully: diemasmichiels.emulate
+2024-02-11 14:43:22.031 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-11 16:26:45.441 [info] Getting Manifest... dart-code.flutter
+2024-02-11 16:26:45.448 [info] Installing extension: dart-code.flutter
+2024-02-11 16:26:46.877 [info] Getting Manifest... dart-code.dart-code
+2024-02-11 16:26:47.040 [info] Installing extension: dart-code.dart-code dart-code.flutter
+2024-02-11 16:26:50.444 [warning] Extension signature verification failed with error 'UnknownError': dart-code.dart-code
+2024-02-11 16:27:05.466 [info] Extracted extension to file:///home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0: dart-code.dart-code
+2024-02-11 16:27:05.486 [info] Renamed to /home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0
+2024-02-11 16:27:05.495 [info] Extracting extension completed. dart-code.dart-code
+2024-02-11 16:27:05.599 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-11 16:27:07.762 [warning] Extension signature verification failed with error 'UnknownError': dart-code.flutter
+2024-02-11 16:27:07.782 [info] Extracted extension to file:///home/ashisthapa/.vscode/extensions/dart-code.flutter-3.82.0: dart-code.flutter
+2024-02-11 16:27:07.787 [info] Renamed to /home/ashisthapa/.vscode/extensions/dart-code.flutter-3.82.0
+2024-02-11 16:27:07.789 [info] Extracting extension completed. dart-code.flutter
+2024-02-11 16:27:07.802 [info] Extension installed successfully: dart-code.dart-code
+2024-02-11 16:27:07.802 [info] Extension installed successfully: dart-code.flutter
+2024-02-11 16:27:07.875 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-11 16:29:48.454 [info] Uninstalling extension from the profile: diemasmichiels.emulate@1.6.0 vscode-userdata:/home/ashisthapa/.vscode/extensions/extensions.json
+2024-02-11 16:29:48.513 [info] Marked extension as uninstalled diemasmichiels.emulate-1.6.0
+2024-02-11 16:29:48.578 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ashisthapa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-11 16:29:48.906 [info] Successfully uninstalled extension from the profile diemasmichiels.emulate@1.6.0 vscode-userdata:/home/ashisthapa/.vscode/extensions/extensions.json

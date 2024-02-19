@@ -1,0 +1,75 @@
+/*
+    "workbench.startupEditor": "none",
+    "window.menuBarVisibility": "toggle",
+    "editor.guides.bracketPairs": "active",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', 'monospace','GoMono Nerd Font Mono'",
+    "editor.fontLigatures": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.env.linux": {},
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "console-ninja.featureSet": "Community",
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.wordWrap": "on",
+
+
+*/ 
+
+
+
+{
+    "workbench.startupEditor": "none",
+    "window.menuBarVisibility": "toggle",
+    "editor.guides.bracketPairs": "active",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', 'monospace','GoMono Nerd Font Mono'",
+    "editor.fontLigatures": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.env.linux": {},
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "console-ninja.featureSet": "Community",
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.wordWrap": "on",
+    "winopacity.opacity": 100,
+    "dec-to-hex-color-opacity.autoLaunchDelay": 5,
+
+
+
+    "window.transparent": true,
+    "workbench.colorCustomizations": {
+    
+        "activityBar.background": "#5e46465e",
+        "sideBar.background": "#332727d8",
+        "sideBarSectionHeader.background": "#00000000",
+        
+        "titleBar.activeBackground": "#00000030",
+        
+        "statusBar.background": "#00000030",
+        
+        "list.inactiveSelectionBackground": "#00000040",
+        "list.activeSelectionBackground": "#00000040",
+        "list.hoverBackground": "#00000040",
+        
+        "editor.background": "#00000000",
+        "editor.lineHighlightBackground": "#FFFFFF15",
+        "editorGroupHeader.tabsBackground": "#3d2d2d20",
+        "workbench.background": "#000000a9",
+        
+        "panel.background": "#3f383800",
+        
+        "terminal.background": "#292c3300",
+        
+        "tab.activeBackground": "#00000000",
+        "tab.inactiveBackground": "#00000010",
+    
+        "button.background": "#00000020",
+        "button.hoverBackground": "#00000040",   
+    },
+
+}

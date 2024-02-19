@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animations</title>
+    <style>
+        .circle{
+            background-color: pink;
+            width: 150px;
+            height:150px;
+            border-radius: 50%;
+            position: absolute;
+            top:50%;
+            left:50%;
+            transition: width .7s;
+
+        }
+        .circle:hover{
+            width: 300px;
+        }
+
+
+        .container{
+            display: flex;
+            align-items: center;
+            /* justify-content: center; */
+            flex-direction: column;
+            background-color: antiquewhite;
+            height: 600px;   
+        }
+        .animation{
+            position:absolute;
+            background-color: aquamarine;
+            width:150px;
+            height:150px;
+            border-radius: 50%;
+            top:400px;
+
+            animation: bounce 2s linear 1s infinite ;
+        }
+        .shadow{
+            position: absolute;
+            
+            border-radius: 50%;
+            width:400px;
+            height:50px;
+            top:550px;
+            animation: shadowAn 2s linear 1s infinite;
+        }
+        @keyframes shadowAn{
+            0%,
+            100%{
+                background-color: #47474754;
+            }
+            30%{
+                width:150px;
+                background-color: #474747b6;
+            }
+
+        }
+
+        @keyframes bounce {
+            0%,
+            100%
+            {
+                width: 150px;
+                height: 150px;
+                top: 0px;
+                
+            }
+            20%{
+                top: 400px;
+                width: 150px;
+                height: 150px;
+            }
+            30%{
+                top:450px;
+                /* transform:scale(1,0.5); */
+                width: 200px;
+                height: 100px;
+            }
+            40%{
+                top:400px;
+                width: 150px;
+                height: 150px;
+            }
+        }
+
+        
+
+    </style>
+</head>
+<body>
+    <!-- <div class="circle"></div> -->
+    <div class="container">
+        <div class="animation"></div>
+        <div class="shadow"></div>   
+    </div>
+    
+
+   
+</body>
+</html>

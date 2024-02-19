@@ -1,0 +1,27 @@
+2024-02-14 02:25:34.500 [info] Session updated: AshisChhetri (github) (service=false)
+2024-02-14 02:25:34.500 [info] Session token updated: AshisChhetri (github)
+2024-02-14 02:25:34.683 [info] No other tunnel running
+2024-02-14 02:25:34.761 [info] Running tunnel CLI
+
+2024-02-14 02:25:34.762 [info] tunnel Spawning: /opt/visual-studio-code/bin/code-tunnel tunnel --accept-server-license-terms --log info --name macro --parent-process-id 7478
+
+2024-02-14 02:25:34.789 [info] *
+
+2024-02-14 02:25:34.789 [info] * Visual Studio Code Server
+
+2024-02-14 02:25:34.790 [info] *
+
+2024-02-14 02:25:34.790 [info] * By using the software, you agree to
+
+2024-02-14 02:25:34.790 [info] * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+
+2024-02-14 02:25:34.790 [info] * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+
+2024-02-14 02:25:34.791 [info] *
+
+2024-02-14 02:25:53.951 [info] 
+
+2024-02-14 02:25:53.951 [info] Open this link in your browser https://vscode.dev/tunnel/macro
+
+2024-02-14 02:25:53.951 [info] 
+

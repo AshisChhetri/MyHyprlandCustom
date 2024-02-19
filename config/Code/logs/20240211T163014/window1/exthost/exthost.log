@@ -1,0 +1,24 @@
+2024-02-11 16:30:16.173 [info] Extension host with pid 130062 started
+2024-02-11 16:30:16.173 [info] Skipping acquiring lock for /home/ashisthapa/.config/Code/User/workspaceStorage/b4736084816ab7b0d8dc4efc40f7ebfc.
+2024-02-11 16:30:16.439 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-11 16:30:16.445 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'onLanguage:dart'
+2024-02-11 16:30:16.888 [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+2024-02-11 16:30:16.894 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-11 16:30:16.897 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-02-11 16:30:16.919 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-02-11 16:30:16.923 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-02-11 16:30:16.957 [info] ExtensionService#_doActivateExtension WallabyJs.wallaby-vscode, startup: true, activationEvent: '*'
+2024-02-11 16:30:17.326 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-11 16:30:17.359 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-11 16:30:17.479 [info] Eager extensions activated
+2024-02-11 16:30:17.624 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 16:30:17.627 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 16:30:17.639 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 16:30:17.664 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 16:30:17.669 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 16:30:17.680 [info] ExtensionService#_doActivateExtension ReacTreeDev.reactree, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 16:30:17.691 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 16:30:17.811 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-11 16:30:17.965 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2024-02-11 16:30:18.489 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-11 16:30:54.259 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'

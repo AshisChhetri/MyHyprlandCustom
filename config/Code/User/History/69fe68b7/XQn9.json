@@ -1,0 +1,3565 @@
+{
+    "Name"            : "aalib",
+    "Description"     : "ASCII art graphic library"
+},
+{
+    "Name"            : "abseil-cpp",
+    "Description"     : "Collection of C++ library code designed to augment the C++ standard library"
+},
+{
+    "Name"            : "accountsservice",
+    "Description"     : "D-Bus interface for user account query and manipulation"
+},
+{
+    "Name"            : "acl",
+    "Description"     : "Access control list utilities, libraries and headers"
+},
+{
+    "Name"            : "adobe-source-code-pro-fonts",
+    "Description"     : "Monospaced font family for user interface and coding environments"
+},
+{
+    "Name"            : "adwaita-cursors",
+    "Description"     : "GNOME standard cursors"
+},
+{
+    "Name"            : "adwaita-icon-theme",
+    "Description"     : "GNOME standard icons"
+},
+{
+    "Name"            : "alacritty",
+    "Description"     : "A cross-platform, GPU-accelerated terminal emulator"
+},
+{
+    "Name"            : "alsa-card-profiles",
+    "Description"     : "Low-latency audio/video router and processor - ALSA card profiles"
+},
+{
+    "Name"            : "alsa-lib",
+    "Description"     : "An alternative implementation of Linux sound support"
+},
+{
+    "Name"            : "alsa-topology-conf",
+    "Description"     : "ALSA topology configuration files"
+},
+{
+    "Name"            : "alsa-ucm-conf",
+    "Description"     : "ALSA Use Case Manager configuration (and topologies)"
+},
+{
+    "Name"            : "android-studio",
+    "Description"     : "The official Android IDE (Stable branch)"
+},
+{
+    "Name"            : "aom",
+    "Description"     : "Alliance for Open Media video codec"
+},
+{
+    "Name"            : "appstream",
+    "Description"     : "Provides a standard for creating app stores across distributions"
+},
+{
+    "Name"            : "appstream-glib",
+    "Description"     : "Objects and methods for reading and writing AppStream metadata"
+},
+{
+    "Name"            : "archlinux-keyring",
+    "Description"     : "Arch Linux PGP keyring"
+},
+{
+    "Name"            : "argon2",
+    "Description"     : "A password-hashing function (reference C implementation)"
+},
+{
+    "Name"            : "at-spi2-core",
+    "Description"     : "Protocol definitions and daemon for D-Bus at-spi"
+},
+{
+    "Name"            : "atkmm",
+    "Description"     : "C++ bindings for ATK"
+},
+{
+    "Name"            : "attr",
+    "Description"     : "Extended attribute support library for ACL support"
+},
+{
+    "Name"            : "audit",
+    "Description"     : "Userspace components of the audit framework"
+},
+{
+    "Name"            : "autoconf",
+    "Description"     : "A GNU tool for automatically configuring source code"
+},
+{
+    "Name"            : "automake",
+    "Description"     : "A GNU tool for automatically creating Makefiles"
+},
+{
+    "Name"            : "avahi",
+    "Description"     : "Service Discovery for Linux using mDNS/DNS-SD (compatible with Bonjour)"
+},
+{
+    "Name"            : "base",
+    "Description"     : "Minimal package set to define a basic Arch Linux installation"
+},
+{
+    "Name"            : "base-devel",
+    "Description"     : "Basic tools to build Arch Linux packages"
+},
+{
+    "Name"            : "bash",
+    "Description"     : "The GNU Bourne Again shell"
+},
+{
+    "Name"            : "bat",
+    "Description"     : "Cat clone with syntax highlighting and git integration"
+},
+{
+    "Name"            : "bc",
+    "Description"     : "An arbitrary precision calculator language"
+},
+{
+    "Name"            : "binutils",
+    "Description"     : "A set of programs to assemble and manipulate binary and object files"
+},
+{
+    "Name"            : "bison",
+    "Description"     : "The GNU general-purpose parser generator"
+},
+{
+    "Name"            : "blas",
+    "Description"     : "Basic Linear Algebra Subprograms"
+},
+{
+    "Name"            : "blueman",
+    "Description"     : "GTK+ Bluetooth Manager"
+},
+{
+    "Name"            : "blueprint-compiler",
+    "Description"     : "A markup language for GTK user interfaces"
+},
+{
+    "Name"            : "bluez",
+    "Description"     : "Daemons for the bluetooth protocol stack"
+},
+{
+    "Name"            : "bluez-libs",
+    "Description"     : "Deprecated libraries for the bluetooth protocol stack"
+},
+{
+    "Name"            : "bluez-utils",
+    "Description"     : "Development and debugging utilities for the bluetooth protocol stack"
+},
+{
+    "Name"            : "boost-libs",
+    "Description"     : "Free peer-reviewed portable C++ source libraries (runtime libraries)"
+},
+{
+    "Name"            : "brave-bin",
+    "Description"     : "Web browser that blocks ads and trackers by default (binary release)"
+},
+{
+    "Name"            : "bridge-utils",
+    "Description"     : "Utilities for configuring the Linux ethernet bridge"
+},
+{
+    "Name"            : "brightnessctl",
+    "Description"     : "Lightweight brightness control tool"
+},
+{
+    "Name"            : "brltty",
+    "Description"     : "Braille display driver for Linux/Unix"
+},
+{
+    "Name"            : "brotli",
+    "Description"     : "Generic-purpose lossless compression algorithm"
+},
+{
+    "Name"            : "btop",
+    "Description"     : "A monitor of system resources, bpytop ported to C++"
+},
+{
+    "Name"            : "btrfs-progs",
+    "Description"     : "Btrfs filesystem utilities"
+},
+{
+    "Name"            : "bubblewrap",
+    "Description"     : "Unprivileged sandboxing tool"
+},
+{
+    "Name"            : "bzip2",
+    "Description"     : "A high-quality data compression program"
+},
+{
+    "Name"            : "ca-certificates",
+    "Description"     : "Common CA certificates (default providers)"
+},
+{
+    "Name"            : "ca-certificates-mozilla",
+    "Description"     : "Mozilla's set of trusted CA certificates"
+},
+{
+    "Name"            : "ca-certificates-utils",
+    "Description"     : "Common CA certificates (utilities)"
+},
+{
+    "Name"            : "cairo",
+    "Description"     : "2D graphics library with support for multiple output devices"
+},
+{
+    "Name"            : "cairomm",
+    "Description"     : "C++ bindings for Cairo"
+},
+{
+    "Name"            : "cantarell-fonts",
+    "Description"     : "Humanist sans serif font"
+},
+{
+    "Name"            : "capstone",
+    "Description"     : "Lightweight multi-platform, multi-architecture disassembly framework"
+},
+{
+    "Name"            : "catppuccin-cursors-mocha",
+    "Description"     : "Soothing pastel mouse cursors - Mocha"
+},
+{
+    "Name"            : "catppuccin-gtk-theme-latte",
+    "Description"     : "Soothing pastel theme for GTK3 - Latte"
+},
+{
+    "Name"            : "catppuccin-gtk-theme-mocha",
+    "Description"     : "Soothing pastel theme for GTK3 - Mocha"
+},
+{
+    "Name"            : "cava",
+    "Description"     : "Console-based Audio Visualizer for Alsa"
+},
+{
+    "Name"            : "cblas",
+    "Description"     : "C interface to BLAS"
+},
+{
+    "Name"            : "cdparanoia",
+    "Description"     : "Compact Disc Digital Audio extraction tool"
+},
+{
+    "Name"            : "cfitsio",
+    "Description"     : "A library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image "Transport System) data format
+},
+{
+    "Name"            : "chafa",
+    "Description"     : "Image-to-text converter supporting a wide range of symbols and palettes, transparency, "animations, etc.
+},
+{
+    "Name"            : "chrono-date",
+    "Description"     : "A date and time library based on the C++11/14/17 <chrono> header"
+},
+{
+    "Name"            : "chrpath",
+    "Description"     : "Change or delete the rpath or runpath in ELF files"
+},
+{
+    "Name"            : "cinnamon-desktop",
+    "Description"     : "Library with common API for various Cinnamon modules"
+},
+{
+    "Name"            : "cli11",
+    "Description"     : "Command line parser for C++11"
+},
+{
+    "Name"            : "cliphist",
+    "Description"     : "wayland clipboard manager"
+},
+{
+    "Name"            : "cmake",
+    "Description"     : "A cross-platform open-source make system"
+},
+{
+    "Name"            : "cmatrix",
+    "Description"     : "A curses-based scrolling 'Matrix'-like screen"
+},
+{
+    "Name"            : "coreutils",
+    "Description"     : "The basic file, shell and text manipulation utilities of the GNU operating system"
+},
+{
+    "Name"            : "cpio",
+    "Description"     : "A tool to copy files into or out of a cpio or tar archive"
+},
+{
+    "Name"            : "cppdap",
+    "Description"     : "C++ library for the Debug Adapter Protocol"
+},
+{
+    "Name"            : "cpupower-gui",
+    "Description"     : "A GUI utility to set CPU frequency limits"
+},
+{
+    "Name"            : "cronie",
+    "Description"     : "Daemon that runs specified programs at scheduled times and related tools"
+},
+{
+    "Name"            : "cryptsetup",
+    "Description"     : "Userspace setup tool for transparent encryption of block devices using dm-crypt"
+},
+{
+    "Name"            : "curl",
+    "Description"     : "command line tool and library for transferring data with URLs"
+},
+{
+    "Name"            : "dav1d",
+    "Description"     : "AV1 cross-platform decoder focused on speed and correctness"
+},
+{
+    "Name"            : "db",
+    "Description"     : "The Berkeley DB embedded database system"
+},
+{
+    "Name"            : "db5.3",
+    "Description"     : "The Berkeley DB embedded database system v5.3"
+},
+{
+    "Name"            : "dbus",
+    "Description"     : "Freedesktop.org message bus system"
+},
+{
+    "Name"            : "dbus-glib",
+    "Description"     : "GLib bindings for D-Bus (deprecated)"
+},
+{
+    "Name"            : "dbus-python",
+    "Description"     : "Python bindings for D-Bus"
+},
+{
+    "Name"            : "dconf",
+    "Description"     : "Configuration database system"
+},
+{
+    "Name"            : "debugedit",
+    "Description"     : "Tool to mangle source locations in .debug files"
+},
+{
+    "Name"            : "default-cursors",
+    "Description"     : "Default cursor set"
+},
+{
+    "Name"            : "desktop-file-utils",
+    "Description"     : "Command line utilities for working with desktop entries"
+},
+{
+    "Name"            : "device-mapper",
+    "Description"     : "Device mapper userspace library and tools"
+},
+{
+    "Name"            : "diffutils",
+    "Description"     : "Utility programs used for creating patch files"
+},
+{
+    "Name"            : "dkms",
+    "Description"     : "Dynamic Kernel Modules System"
+},
+{
+    "Name"            : "dmidecode",
+    "Description"     : "Desktop Management Interface table related utilities"
+},
+{
+    "Name"            : "dnsmasq",
+    "Description"     : "Lightweight, easy to configure DNS forwarder and DHCP server"
+},
+{
+    "Name"            : "dnssec-anchors",
+    "Description"     : "DNSSEC trust anchors for the root zone"
+},
+{
+    "Name"            : "dosfstools",
+    "Description"     : "DOS filesystem utilities"
+},
+{
+    "Name"            : "double-conversion",
+    "Description"     : "Binary-decimal and decimal-binary routines for IEEE doubles"
+},
+{
+    "Name"            : "dtc",
+    "Description"     : "Device Tree Compiler"
+},
+{
+    "Name"            : "duktape",
+    "Description"     : "Embeddable Javascript engine"
+},
+{
+    "Name"            : "dunst",
+    "Description"     : "Customizable and lightweight notification-daemon"
+},
+{
+    "Name"            : "e2fsprogs",
+    "Description"     : "Ext2/3/4 filesystem utilities"
+},
+{
+    "Name"            : "edk2-aarch64",
+    "Description"     : "Firmware for Virtual Machines (aarch64)"
+},
+{
+    "Name"            : "edk2-arm",
+    "Description"     : "Firmware for Virtual Machines (armv7)"
+},
+{
+    "Name"            : "edk2-ovmf",
+    "Description"     : "Firmware for Virtual Machines (x86_64, i686)"
+},
+{
+    "Name"            : "efibootmgr",
+    "Description"     : "Linux user-space application to modify the EFI Boot Manager"
+},
+{
+    "Name"            : "efivar",
+    "Description"     : "Tools and libraries to work with EFI variables"
+},
+{
+    "Name"            : "egl-wayland",
+    "Description"     : "EGLStream-based Wayland external platform"
+},
+{
+    "Name"            : "eglexternalplatform",
+    "Description"     : "EGL External Platform interface"
+},
+{
+    "Name"            : "enchant",
+    "Description"     : "A wrapper library for generic spell checking"
+},
+{
+    "Name"            : "exempi",
+    "Description"     : "Library to parse XMP metadata"
+},
+{
+    "Name"            : "exiv2",
+    "Description"     : "Exif, Iptc and XMP metadata manipulation library and tools"
+},
+{
+    "Name"            : "expat",
+    "Description"     : "An XML parser library"
+},
+{
+    "Name"            : "extra-cmake-modules",
+    "Description"     : "Extra modules and scripts for CMake"
+},
+{
+    "Name"            : "fakeroot",
+    "Description"     : "Tool for simulating superuser privileges"
+},
+{
+    "Name"            : "feh",
+    "Description"     : "Fast and light imlib2-based image viewer"
+},
+{
+    "Name"            : "ffmpeg",
+    "Description"     : "Complete solution to record, convert and stream audio and video"
+},
+{
+    "Name"            : "ffmpegthumbnailer",
+    "Description"     : "Lightweight video thumbnailer that can be used by file managers"
+},
+{
+    "Name"            : "ffnvcodec-headers",
+    "Description"     : "FFmpeg version of headers required to interface with Nvidias codec APIs"
+},
+{
+    "Name"            : "fftw",
+    "Description"     : "A library for computing the discrete Fourier transform (DFT)"
+},
+{
+    "Name"            : "file",
+    "Description"     : "File type identification utility"
+},
+{
+    "Name"            : "file-roller",
+    "Description"     : "Create and modify archives"
+},
+{
+    "Name"            : "filesystem",
+    "Description"     : "Base Arch Linux files"
+},
+{
+    "Name"            : "findutils",
+    "Description"     : "GNU utilities to locate files"
+},
+{
+    "Name"            : "firefox",
+    "Description"     : "Standalone web browser from mozilla.org"
+},
+{
+    "Name"            : "flac",
+    "Description"     : "Free Lossless Audio Codec"
+},
+{
+    "Name"            : "flatpak",
+    "Description"     : "Linux application sandboxing and distribution framework (formerly xdg-app)"
+},
+{
+    "Name"            : "flex",
+    "Description"     : "A tool for generating text-scanning programs"
+},
+{
+    "Name"            : "fmt",
+    "Description"     : "Open-source formatting library for C++"
+},
+{
+    "Name"            : "fontconfig",
+    "Description"     : "Library for configuring and customizing font access"
+},
+{
+    "Name"            : "freedownloadmanager",
+    "Description"     : "FDM is a powerful modern download accelerator and organizer."
+},
+{
+    "Name"            : "freeglut",
+    "Description"     : "Provides functionality for small OpenGL programs"
+},
+{
+    "Name"            : "freerdp",
+    "Description"     : "Free implementation of the Remote Desktop Protocol (RDP)"
+},
+{
+    "Name"            : "freetype2",
+    "Description"     : "Font rasterization library"
+},
+{
+    "Name"            : "fribidi",
+    "Description"     : "A Free Implementation of the Unicode Bidirectional Algorithm"
+},
+{
+    "Name"            : "fuse-common",
+    "Description"     : "Common files for fuse2/3 packages"
+},
+{
+    "Name"            : "fuse2",
+    "Description"     : "A library that makes it possible to implement a filesystem in a userspace program."
+},
+{
+    "Name"            : "fuse3",
+    "Description"     : "Interface for userspace programs to export a filesystem to the Linux kernel"
+},
+{
+    "Name"            : "gawk",
+    "Description"     : "GNU version of awk"
+},
+{
+    "Name"            : "gc",
+    "Description"     : "A garbage collector for C and C++"
+},
+{
+    "Name"            : "gcc",
+    "Description"     : "The GNU Compiler Collection - C and C++ frontends"
+},
+{
+    "Name"            : "gcc-libs",
+    "Description"     : "Runtime libraries shipped by GCC"
+},
+{
+    "Name"            : "gcr",
+    "Description"     : "A library for bits of crypto UI and parsing"
+},
+{
+    "Name"            : "gcr-4",
+    "Description"     : "A library for bits of crypto UI and parsing"
+},
+{
+    "Name"            : "gdb",
+    "Description"     : "The GNU Debugger"
+},
+{
+    "Name"            : "gdb-common",
+    "Description"     : "The GNU Debugger"
+},
+{
+    "Name"            : "gdbm",
+    "Description"     : "GNU database library"
+},
+{
+    "Name"            : "gdk-pixbuf2",
+    "Description"     : "An image loading library"
+},
+{
+    "Name"            : "geoclue",
+    "Description"     : "Modular geoinformation service built on the D-Bus messaging system"
+},
+{
+    "Name"            : "gettext",
+    "Description"     : "GNU internationalization library"
+},
+{
+    "Name"            : "giflib",
+    "Description"     : "Library for reading and writing gif images"
+},
+{
+    "Name"            : "git",
+    "Description"     : "the fast distributed version control system"
+},
+{
+    "Name"            : "glib-networking",
+    "Description"     : "Network extensions for GLib"
+},
+{
+    "Name"            : "glib2",
+    "Description"     : "Low level core library"
+},
+{
+    "Name"            : "glibc",
+    "Description"     : "GNU C Library"
+},
+{
+    "Name"            : "glibmm",
+    "Description"     : "C++ bindings for GLib"
+},
+{
+    "Name"            : "glslang",
+    "Description"     : "OpenGL and OpenGL ES shader front end and validator"
+},
+{
+    "Name"            : "glu",
+    "Description"     : "Mesa OpenGL utility library"
+},
+{
+    "Name"            : "glusterfs",
+    "Description"     : "a cluster file-system capable of scaling to several peta-bytes."
+},
+{
+    "Name"            : "gmp",
+    "Description"     : "A free library for arbitrary precision arithmetic"
+},
+{
+    "Name"            : "gnu-free-fonts",
+    "Description"     : "A free family of scalable outline fonts"
+},
+{
+    "Name"            : "gnupg",
+    "Description"     : "Complete and free implementation of the OpenPGP standard"
+},
+{
+    "Name"            : "gnutls",
+    "Description"     : "A library which provides a secure layer over a reliable transport layer"
+},
+{
+    "Name"            : "gobject-introspection",
+    "Description"     : "Introspection system for GObject-based libraries"
+},
+{
+    "Name"            : "gobject-introspection-runtime",
+    "Description"     : "Introspection system for GObject-based libraries - runtime"
+},
+{
+    "Name"            : "gparted",
+    "Description"     : "A Partition Magic clone, frontend to GNU Parted"
+},
+{
+    "Name"            : "gperftools",
+    "Description"     : "Fast, multi-threaded malloc and nifty performance analysis tools"
+},
+{
+    "Name"            : "gpgme",
+    "Description"     : "A C wrapper library for GnuPG"
+},
+{
+    "Name"            : "gpm",
+    "Description"     : "A mouse server for the console and xterm"
+},
+{
+    "Name"            : "graphene",
+    "Description"     : "A thin layer of graphic data types"
+},
+{
+    "Name"            : "graphicsmagick",
+    "Description"     : "Image processing system"
+},
+{
+    "Name"            : "graphite",
+    "Description"     : "reimplementation of the SIL Graphite text processing engine"
+},
+{
+    "Name"            : "grep",
+    "Description"     : "A string search utility"
+},
+{
+    "Name"            : "grim",
+    "Description"     : "Screenshot utility for Wayland"
+},
+{
+    "Name"            : "groff",
+    "Description"     : "GNU troff text-formatting system"
+},
+{
+    "Name"            : "grub",
+    "Description"     : "GNU GRand Unified Bootloader (2)"
+},
+{
+    "Name"            : "gsettings-desktop-schemas",
+    "Description"     : "Shared GSettings schemas for the desktop"
+},
+{
+    "Name"            : "gsl",
+    "Description"     : "The GNU Scientific Library (GSL) is a modern numerical library for C and C++ programmers"
+},
+{
+    "Name"            : "gsm",
+    "Description"     : "Shared libraries for GSM 06.10 lossy speech compression"
+},
+{
+    "Name"            : "gspell",
+    "Description"     : "Spell-checking library for GTK applications"
+},
+{
+    "Name"            : "gssdp",
+    "Description"     : "A GObject-based API for handling resource discovery and announcement over SSDP"
+},
+{
+    "Name"            : "gst-plugin-pipewire",
+    "Description"     : "Multimedia graph framework - pipewire plugin"
+},
+{
+    "Name"            : "gst-plugins-bad-libs",
+    "Description"     : "Multimedia graph framework - bad"
+},
+{
+    "Name"            : "gst-plugins-base",
+    "Description"     : "Multimedia graph framework - base plugins"
+},
+{
+    "Name"            : "gst-plugins-base-libs",
+    "Description"     : "Multimedia graph framework - base"
+},
+{
+    "Name"            : "gst-plugins-good",
+    "Description"     : "Multimedia graph framework - good plugins"
+},
+{
+    "Name"            : "gstreamer",
+    "Description"     : "Multimedia graph framework - core"
+},
+{
+    "Name"            : "gtk-layer-shell",
+    "Description"     : "Library to create Wayland desktop components using the Layer Shell protocol"
+},
+{
+    "Name"            : "gtk-update-icon-cache",
+    "Description"     : "GTK icon cache updater"
+},
+{
+    "Name"            : "gtk-vnc",
+    "Description"     : "VNC viewer widget for GTK"
+},
+{
+    "Name"            : "gtk2",
+    "Description"     : "GObject-based multi-platform GUI toolkit (legacy)"
+},
+{
+    "Name"            : "gtk3",
+    "Description"     : "GObject-based multi-platform GUI toolkit"
+},
+{
+    "Name"            : "gtk4",
+    "Description"     : "GObject-based multi-platform GUI toolkit"
+},
+{
+    "Name"            : "gtkmm3",
+    "Description"     : "C++ bindings for GTK+ 3"
+},
+{
+    "Name"            : "gtksourceview4",
+    "Description"     : "A text widget adding syntax highlighting and more to GNOME"
+},
+{
+    "Name"            : "guile",
+    "Description"     : "Portable, embeddable Scheme implementation written in C"
+},
+{
+    "Name"            : "gupnp",
+    "Description"     : "An object-oriented UPNP framework"
+},
+{
+    "Name"            : "gupnp-igd",
+    "Description"     : "A library to handle UPnP IGD port mapping"
+},
+{
+    "Name"            : "gvfs",
+    "Description"     : "Virtual filesystem implementation for GIO"
+},
+{
+    "Name"            : "gvfs-mtp",
+    "Description"     : "Virtual filesystem implementation for GIO (MTP backend; Android, media player)"
+},
+{
+    "Name"            : "gzip",
+    "Description"     : "GNU compression utility"
+},
+{
+    "Name"            : "harfbuzz",
+    "Description"     : "OpenType text shaping engine"
+},
+{
+    "Name"            : "helvum",
+    "Description"     : "GTK patchbay for PipeWire"
+},
+{
+    "Name"            : "hicolor-icon-theme",
+    "Description"     : "Freedesktop.org Hicolor icon theme"
+},
+{
+    "Name"            : "hidapi",
+    "Description"     : "Simple library for communicating with USB and Bluetooth HID devices"
+},
+{
+    "Name"            : "highway",
+    "Description"     : "A C++ library for SIMD (Single Instruction, Multiple Data)"
+},
+{
+    "Name"            : "htop",
+    "Description"     : "Interactive process viewer"
+},
+{
+    "Name"            : "http-parser",
+    "Description"     : "Parser for HTTP Request/Response written in C"
+},
+{
+    "Name"            : "hwdata",
+    "Description"     : "hardware identification databases"
+},
+{
+    "Name"            : "hwloc",
+    "Description"     : "Portable Hardware Locality is a portable abstraction of hierarchical architectures"
+},
+{
+    "Name"            : "hyprland-git",
+    "Description"     : "A dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks."
+},
+{
+    "Name"            : "hyprpicker",
+    "Description"     : "A wlroots-compatible Wayland color picker that does not suck."
+},
+{
+    "Name"            : "iana-etc",
+    "Description"     : "/etc/protocols and /etc/services provided by IANA"
+},
+{
+    "Name"            : "icu",
+    "Description"     : "International Components for Unicode library"
+},
+{
+    "Name"            : "imagemagick",
+    "Description"     : "An image viewing/manipulation program"
+},
+{
+    "Name"            : "imath",
+    "Description"     : "A C++ and python library of 2D and 3D vector, matrix, and math operations for computer graphics"
+},
+{
+    "Name"            : "imlib2",
+    "Description"     : "Library that does image file loading and saving as well as rendering, manipulation, arbitrary "polygon support
+},
+{
+    "Name"            : "iniparser",
+    "Description"     : "A free stand-alone ini file parsing library written in portable ANSI C"
+},
+{
+    "Name"            : "inkscape",
+    "Description"     : "Professional vector graphics editor"
+},
+{
+    "Name"            : "intel-ucode",
+    "Description"     : "Microcode update files for Intel CPUs"
+},
+{
+    "Name"            : "iproute2",
+    "Description"     : "IP Routing Utilities"
+},
+{
+    "Name"            : "iptables-nft",
+    "Description"     : "Linux kernel packet control tool (using nft interface)"
+},
+{
+    "Name"            : "iputils",
+    "Description"     : "Network monitoring tools, including ping"
+},
+{
+    "Name"            : "iso-codes",
+    "Description"     : "Lists of the country, language, and currency "
+    
+},
+{
+    "Name"            : "jansson",
+    "Description"     : "C library for encoding, decoding and manipulating JSON data"
+},
+{
+    "Name"            : "jbigkit",
+    "Description"     : "Data compression library/utilities for bi-level high-resolution images"
+},
+{
+    "Name"            : "jq",
+    "Description"     : "Command-line JSON processor"
+},
+{
+    "Name"            : "json-c",
+    "Description"     : "A JSON implementation in C"
+},
+{
+    "Name"            : "json-glib",
+    "Description"     : "JSON library built on GLib"
+},
+{
+    "Name"            : "jsoncpp",
+    "Description"     : "C++ library for interacting with JSON"
+},
+{
+    "Name"            : "karchive5",
+    "Description"     : "Qt 5 addon providing access to numerous types of archives"
+},
+{
+    "Name"            : "kauth5",
+    "Description"     : "Abstraction to system policy and authentication features"
+},
+{
+    "Name"            : "kbd",
+    "Description"     : "Keytable files and keyboard utilities"
+},
+{
+    "Name"            : "kcodecs5",
+    "Description"     : "Provide a collection of methods to manipulate strings using various encodings"
+},
+{
+    "Name"            : "kconfig5",
+    "Description"     : "Configuration system"
+},
+{
+    "Name"            : "kconfigwidgets5",
+    "Description"     : "Widgets for KConfig"
+},
+{
+    "Name"            : "kcoreaddons5",
+    "Description"     : "Addons to QtCore"
+},
+{
+    "Name"            : "kcrash5",
+    "Description"     : "Support for application crash analysis and bug report from apps"
+},
+{
+    "Name"            : "kdbusaddons5",
+    "Description"     : "Addons to QtDBus"
+},
+{
+    "Name"            : "keyutils",
+    "Description"     : "Linux Key Management Utilities"
+},
+{
+    "Name"            : "kguiaddons5",
+    "Description"     : "Addons to QtGui"
+},
+{
+    "Name"            : "ki18n5",
+    "Description"     : "Advanced internationalization framework"
+},
+{
+    "Name"            : "kiconthemes5",
+    "Description"     : "Support for icon themes"
+},
+{
+    "Name"            : "kmod",
+    "Description"     : "Linux kernel module management tools and library"
+},
+{
+    "Name"            : "krb5",
+    "Description"     : "The Kerberos network authentication system"
+},
+{
+    "Name"            : "kwidgetsaddons5",
+    "Description"     : "Addons to QtWidgets"
+},
+{
+    "Name"            : "kwindowsystem5",
+    "Description"     : "Access to the windowing system"
+},
+{
+    "Name"            : "l-smash",
+    "Description"     : "MP4 muxer and other tools"
+},
+{
+    "Name"            : "lame",
+    "Description"     : "A high quality MPEG Audio Layer III (MP3) encoder"
+},
+{
+    "Name"            : "lapack",
+    "Description"     : "Linear Algebra PACKage"
+},
+{
+    "Name"            : "lcms2",
+    "Description"     : "Small-footprint color management engine, version 2"
+},
+{
+    "Name"            : "ldns",
+    "Description"     : "Fast DNS library supporting recent RFCs"
+},
+{
+    "Name"            : "lib2geom",
+    "Description"     : "Easy to use 2D geometry library in C++"
+},
+{
+    "Name"            : "libadwaita",
+    "Description"     : "Building blocks for modern adaptive GNOME applications"
+},
+{
+    "Name"            : "libaio",
+    "Description"     : "The Linux-native asynchronous I/O facility (aio) library"
+},
+{
+    "Name"            : "libappindicator-gtk3",
+    "Description"     : "Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (GTK+ 3 "library)
+},
+{
+    "Name"            : "libarchive",
+    "Description"     : "Multi-format archive and compression library"
+},
+{
+    "Name"            : "libass",
+    "Description"     : "A portable library for SSA/ASS subtitles rendering"
+},
+{
+    "Name"            : "libassuan",
+    "Description"     : "IPC library used by some GnuPG related software"
+},
+{
+    "Name"            : "libasyncns",
+    "Description"     : "A C library for executing "
+},
+{
+    "Name"            : "libatasmart",
+    "Description"     : "ATA S.M.A.R.T. reader and parser library"
+},
+{
+    "Name"            : "libavc1394",
+    "Description"     : "Library to control A/V devices using the 1394 TA AV/C commands"
+},
+{
+    "Name"            : "libavif",
+    "Description"     : "Library for encoding and decoding .avif files"
+},
+{
+    "Name"            : "libb2",
+    "Description"     : "C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp hash functions"
+},
+{
+    "Name"            : "libblockdev",
+    "Description"     : "A library for manipulating block devices"
+},
+{
+    "Name"            : "libbluray",
+    "Description"     : "Library to access Blu-Ray disks for video playback"
+},
+{
+    "Name"            : "libbpf",
+    "Description"     : "Library for loading eBPF programs and reading and manipulating eBPF objects from user-space"
+},
+{
+    "Name"            : "libbs2b",
+    "Description"     : "Bauer stereophonic-to-binaural DSP effect library"
+},
+{
+    "Name"            : "libbsd",
+    "Description"     : "Provides useful functions commonly found on BSD systems like strlcpy()"
+},
+{
+    "Name"            : "libburn",
+    "Description"     : "Library for reading, mastering and writing optical discs"
+},
+{
+    "Name"            : "libbytesize",
+    "Description"     : "A tiny library providing a C "class" for working with arbitrary big sizes in bytes"
+},
+{
+    "Name"            : "libcaca",
+    "Description"     : "Color ASCII art library"
+},
+{
+    "Name"            : "libcacard",
+    "Description"     : "(Common Access Card) library thar provides emulation of smart cards to a virtual card reader "running in a guest virtual machine
+},
+{
+    "Name"            : "libcamera",
+    "Description"     : "A complex camera support library for Linux, Android, and ChromeOS"
+},
+{
+    "Name"            : "libcamera-ipa",
+    "Description"     : "A complex camera support library for Linux, Android, and ChromeOS - signed IPA"
+},
+{
+    "Name"            : "libcanberra",
+    "Description"     : "A small and lightweight implementation of the XDG Sound Theme Specification"
+},
+{
+    "Name"            : "libcap",
+    "Description"     : "POSIX 1003.1e capabilities"
+},
+{
+    "Name"            : "libcap-ng",
+    "Description"     : "A library for Linux that makes using posix capabilities easy"
+},
+{
+    "Name"            : "libcdio",
+    "Description"     : "GNU Compact Disc Input and Control Library"
+},
+{
+    "Name"            : "libcdio-paranoia",
+    "Description"     : "Compact Disc Digital Audio (CDDA) extraction tool using libcdio for CDROM access"
+},
+{
+    "Name"            : "libcdr",
+    "Description"     : "CorelDraw file format importer library for LibreOffice"
+},
+{
+    "Name"            : "libcgif",
+    "Description"     : "A fast and lightweight GIF encoding library"
+},
+{
+    "Name"            : "libcloudproviders",
+    "Description"     : "DBus API that allows cloud storage sync clients to expose their services"
+},
+{
+    "Name"            : "libcolord",
+    "Description"     : "System daemon for managing color devices (client library)"
+},
+{
+    "Name"            : "libcups",
+    "Description"     : "OpenPrinting CUPS - client libraries and headers"
+},
+{
+    "Name"            : "libdaemon",
+    "Description"     : "Lightweight C library that eases the writing of UNIX daemons"
+},
+{
+    "Name"            : "libdatrie",
+    "Description"     : "Double-array trie library"
+},
+{
+    "Name"            : "libdbusmenu-glib",
+    "Description"     : "Library for passing menus over DBus"
+},
+{
+    "Name"            : "libdbusmenu-gtk3",
+    "Description"     : "Library for passing menus over DBus (GTK+ 3 library)"
+},
+{
+    "Name"            : "libdc1394",
+    "Description"     : "Library to control IEEE 1394 based cameras"
+},
+{
+    "Name"            : "libdeflate",
+    "Description"     : "Heavily optimized library for DEFLATE/zlib/gzip compression and decompression"
+},
+{
+    "Name"            : "libdisplay-info",
+    "Description"     : "EDID and DisplayID library"
+},
+{
+    "Name"            : "libdovi",
+    "Description"     : "Library to read and write Dolby Vision metadata"
+},
+{
+    "Name"            : "libdrm",
+    "Description"     : "Userspace interface to kernel DRM services"
+},
+{
+    "Name"            : "libdv",
+    "Description"     : "Decoder library for DV video"
+},
+{
+    "Name"            : "libdvdnav",
+    "Description"     : "Library to navigate DVD video disks"
+},
+{
+    "Name"            : "libdvdread",
+    "Description"     : "Library for reading DVD video disks"
+},
+{
+    "Name"            : "libedit",
+    "Description"     : "Command line editor library providing generic line editing, history, and tokenization functions"
+},
+{
+    "Name"            : "libelf",
+    "Description"     : "Handle ELF object files and DWARF debugging information (libraries)"
+},
+{
+    "Name"            : "libepoxy",
+    "Description"     : "Library handling OpenGL function pointer management"
+},
+{
+    "Name"            : "libevdev",
+    "Description"     : "Wrapper library for evdev devices"
+},
+{
+    "Name"            : "libevent",
+    "Description"     : "Event notification library"
+},
+{
+    "Name"            : "libexif",
+    "Description"     : "Library to parse an EXIF file and read the data from those tags"
+},
+{
+    "Name"            : "libfdk-aac",
+    "Description"     : "Fraunhofer FDK AAC codec library"
+},
+{
+    "Name"            : "libffi",
+    "Description"     : "Portable foreign function interface library"
+},
+{
+    "Name"            : "libfontenc",
+    "Description"     : "X11 font encoding library"
+},
+{
+    "Name"            : "libfreeaptx",
+    "Description"     : "Open Source aptX codec library"
+},
+{
+    "Name"            : "libgcrypt",
+    "Description"     : "General purpose cryptographic library based on the code from GnuPG"
+},
+{
+    "Name"            : "libgee",
+    "Description"     : "A collection library providing GObject-based interfaces and classes for commonly used data "structures
+},
+{
+    "Name"            : "libgirepository",
+    "Description"     : "Introspection system for GObject-based libraries - runtime library"
+},
+{
+    "Name"            : "libgit2",
+    "Description"     : "A linkable library for Git"
+},
+{
+    "Name"            : "libglvnd",
+    "Description"     : "The GL Vendor-Neutral Dispatch library"
+},
+{
+    "Name"            : "libgnomekbd",
+    "Description"     : "Keyboard management library"
+},
+{
+    "Name"            : "libgovirt",
+    "Description"     : "GObject-based library to access oVirt REST API"
+},
+{
+    "Name"            : "libgpg-error",
+    "Description"     : "Support library for libgcrypt"
+},
+{
+    "Name"            : "libgsf",
+    "Description"     : "An extensible I/O abstraction library for dealing with structured file formats"
+},
+{
+    "Name"            : "libgudev",
+    "Description"     : "GObject bindings for libudev"
+},
+{
+    "Name"            : "libhandy",
+    "Description"     : "Library full of GTK+ widgets for mobile phones"
+},
+{
+    "Name"            : "libical",
+    "Description"     : "An open source reference implementation of the icalendar data type and serialization format"
+},
+{
+    "Name"            : "libice",
+    "Description"     : "X11 Inter-Client Exchange library"
+},
+{
+    "Name"            : "libidn2",
+    "Description"     : "Free software implementation of IDNA2008, Punycode and TR46"
+},
+{
+    "Name"            : "libiec61883",
+    "Description"     : "A higher level API for streaming DV, MPEG-2 and audio over Linux IEEE 1394"
+},
+{
+    "Name"            : "libimagequant",
+    "Description"     : "Library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images"
+},
+{
+    "Name"            : "libimobiledevice",
+    "Description"     : "Library to communicate with services on iOS devices using native protocols"
+},
+{
+    "Name"            : "libinih",
+    "Description"     : "A simple .INI file parser written in C"
+},
+{
+    "Name"            : "libinput",
+    "Description"     : "Input device management and event handling library"
+},
+{
+    "Name"            : "libiscsi",
+    "Description"     : "Clientside library to implement the iSCSI protocol"
+},
+{
+    "Name"            : "libisl",
+    "Description"     : "Library for manipulating sets and relations of integer points bounded by linear constraints"
+},
+{
+    "Name"            : "libisoburn",
+    "Description"     : "frontend for libraries libburn and libisofs"
+},
+{
+    "Name"            : "libisofs",
+    "Description"     : "Library to pack up hard disk files and directories into a ISO 9660 disk image"
+},
+{
+    "Name"            : "libjpeg-turbo",
+    "Description"     : "JPEG image codec with accelerated baseline compression and decompression"
+},
+{
+    "Name"            : "libjxl",
+    "Description"     : "JPEG XL image format reference implementation"
+},
+{
+    "Name"            : "libksba",
+    "Description"     : "Library for working with X.509 certificates, CMS data and related objects"
+},
+{
+    "Name"            : "liblc3",
+    "Description"     : "Low Complexity Communication Codec library and tools"
+},
+{
+    "Name"            : "libldac",
+    "Description"     : "LDAC Bluetooth encoder library"
+},
+{
+    "Name"            : "libldap",
+    "Description"     : "Lightweight Directory Access Protocol (LDAP) client libraries"
+},
+{
+    "Name"            : "libliftoff",
+    "Description"     : "Lightweight KMS plane library"
+},
+{
+    "Name"            : "liblouis",
+    "Description"     : "Braille translator and back-translator library"
+},
+{
+    "Name"            : "liblqr",
+    "Description"     : "A seam-carving C/C++ library called Liquid Rescale"
+},
+{
+    "Name"            : "libluv",
+    "Description"     : "Bare libuv bindings for lua"
+},
+{
+    "Name"            : "libmalcontent",
+    "Description"     : "Parental control library"
+},
+{
+    "Name"            : "libmd",
+    "Description"     : "Message Digest functions from BSD systems"
+},
+{
+    "Name"            : "libmm-glib",
+    "Description"     : "ModemManager library"
+},
+{
+    "Name"            : "libmnl",
+    "Description"     : "Minimalistic user-space library oriented to Netlink developers."
+},
+{
+    "Name"            : "libmodplug",
+    "Description"     : "A MOD playing library"
+},
+{
+    "Name"            : "libmpc",
+    "Description"     : "Library for the arithmetic of complex numbers with arbitrarily high precision"
+},
+{
+    "Name"            : "libmpdclient",
+    "Description"     : "C library to implement a MPD client"
+},
+{
+    "Name"            : "libmtp",
+    "Description"     : "Library implementation of the Media Transfer Protocol"
+},
+{
+    "Name"            : "libmysofa",
+    "Description"     : "C library to read HRTFs if they are stored in the AES69-2015 SOFA format"
+},
+{
+    "Name"            : "libndp",
+    "Description"     : "Library for Neighbor Discovery Protocol"
+},
+{
+    "Name"            : "libnetfilter_conntrack",
+    "Description"     : "Library providing an API to the in-kernel connection tracking state table"
+},
+{
+    "Name"            : "libnewt",
+    "Description"     : "Not Erik's Windowing Toolkit - text mode windowing with slang"
+},
+{
+    "Name"            : "libnfnetlink",
+    "Description"     : "Low-level library for netfilter related kernel/userspace communication"
+},
+{
+    "Name"            : "libnfs",
+    "Description"     : "client library for accessing NFS shares"
+},
+{
+    "Name"            : "libnftnl",
+    "Description"     : "Netfilter library providing interface to the nf_tables subsystem"
+},
+{
+    "Name"            : "libnghttp2",
+    "Description"     : "Framing layer of HTTP/2 is implemented as a reusable C library"
+},
+{
+    "Name"            : "libnice",
+    "Description"     : "An implementation of the IETF's draft ICE (for p2p UDP data streams)"
+},
+{
+    "Name"            : "libnl",
+    "Description"     : "Library for applications dealing with netlink sockets"
+},
+{
+    "Name"            : "libnm",
+    "Description"     : "NetworkManager client library"
+},
+{
+    "Name"            : "libnma",
+    "Description"     : "NetworkManager GUI client library (GTK3)"
+},
+{
+    "Name"            : "libnma-common",
+    "Description"     : "NetworkManager GUI client library (common files)"
+},
+{
+    "Name"            : "libnotify",
+    "Description"     : "Library for sending desktop notifications"
+},
+{
+    "Name"            : "libnsl",
+    "Description"     : "Public client interface library for NIS(YP)"
+},
+{
+    "Name"            : "libnvme",
+    "Description"     : "C Library for NVM Express on Linux"
+},
+{
+    "Name"            : "libogg",
+    "Description"     : "Ogg bitstream and framing library"
+},
+{
+    "Name"            : "libomxil-bellagio",
+    "Description"     : "An opensource implementation of the OpenMAX Integration Layer API"
+},
+{
+    "Name"            : "libopenmpt",
+    "Description"     : "A library to render tracker music to a PCM audio stream"
+},
+{
+    "Name"            : "libosinfo",
+    "Description"     : "GObject based library API for managing information about operating systems, hypervisors and the "(virtual) hardware devices they can support
+},
+{
+    "Name"            : "libp11-kit",
+    "Description"     : "Loads and enumerates PKCS#11 modules (library)"
+},
+{
+    "Name"            : "libpcap",
+    "Description"     : "A system-independent interface for user-level packet capture"
+},
+{
+    "Name"            : "libpciaccess",
+    "Description"     : "X11 PCI access library"
+},
+{
+    "Name"            : "libpgm",
+    "Description"     : "Library implementing the Pragmatic General Multicast (PGM, RFC3208) reliable transport protocol "(OpenPGM)
+},
+{
+    "Name"            : "libpipewire",
+    "Description"     : "Low-latency audio/video router and processor - client library"
+},
+{
+    "Name"            : "libplacebo",
+    "Description"     : "Reusable library for GPU-accelerated video/image rendering primitives"
+},
+{
+    "Name"            : "libplist",
+    "Description"     : "Library to handle Apple Property List files"
+},
+{
+    "Name"            : "libpng",
+    "Description"     : "A collection of routines used to create PNG format graphics files"
+},
+{
+    "Name"            : "libportal",
+    "Description"     : "GIO-style async APIs for most Flatpak portals"
+},
+{
+    "Name"            : "libportal-gtk3",
+    "Description"     : "GIO-style async APIs for most Flatpak portals - GTK 3 backend"
+},
+{
+    "Name"            : "libproxy",
+    "Description"     : "Automatic proxy configuration management library"
+},
+{
+    "Name"            : "libpsl",
+    "Description"     : "Public Suffix List library"
+},
+{
+    "Name"            : "libpulse",
+    "Description"     : "A featureful, general-purpose sound server (client library)"
+},
+{
+    "Name"            : "libraqm",
+    "Description"     : "A library that encapsulates the logic for complex text layout"
+},
+{
+    "Name"            : "libraw1394",
+    "Description"     : "Provides an API to the Linux IEEE1394 (FireWire) driver"
+},
+{
+    "Name"            : "librest",
+    "Description"     : "Library for accessing RESTful web services"
+},
+{
+    "Name"            : "librevenge",
+    "Description"     : "library for REVerses ENGineered formats filters"
+},
+{
+    "Name"            : "librsvg",
+    "Description"     : "SVG rendering library"
+},
+{
+    "Name"            : "libsamplerate",
+    "Description"     : "An audio sample rate conversion library"
+},
+{
+    "Name"            : "libsasl",
+    "Description"     : "Cyrus Simple Authentication Service Layer (SASL) library"
+},
+{
+    "Name"            : "libseccomp",
+    "Description"     : "Enhanced seccomp library"
+},
+{
+    "Name"            : "libsecret",
+    "Description"     : "Library for storing and retrieving passwords and other secrets"
+},
+{
+    "Name"            : "libshout",
+    "Description"     : "Library for accessing a shoutcast/icecast server"
+},
+{
+    "Name"            : "libsigc++",
+    "Description"     : "Callback Framework for C++"
+},
+{
+    "Name"            : "libsixel",
+    "Description"     : "Provides a codec for DEC SIXEL graphics and some converter programs"
+},
+{
+    "Name"            : "libslirp",
+    "Description"     : "General purpose TCP-IP emulator"
+},
+{
+    "Name"            : "libsm",
+    "Description"     : "X11 Session Management library"
+},
+{
+    "Name"            : "libsndfile",
+    "Description"     : "A C library for reading and writing files containing sampled audio data"
+},
+{
+    "Name"            : "libsodium",
+    "Description"     : "P(ortable|ackageable) NaCl-based crypto library"
+},
+{
+    "Name"            : "libsoup",
+    "Description"     : "HTTP client/server library for GNOME"
+},
+{
+    "Name"            : "libsoup3",
+    "Description"     : "HTTP client/server library for GNOME"
+},
+{
+    "Name"            : "libsoxr",
+    "Description"     : "The SoX Resampler library that aims to give fast and high quality results for any constant "resampling ratio
+},
+{
+    "Name"            : "libspeechd",
+    "Description"     : "High-level device independent layer for speech synthesis interface"
+},
+{
+    "Name"            : "libssh",
+    "Description"     : "Library for accessing ssh client services through C libraries"
+},
+{
+    "Name"            : "libssh2",
+    "Description"     : "A library implementing the SSH2 protocol as defined by Internet Drafts"
+},
+{
+    "Name"            : "libstemmer",
+    "Description"     : "Stemming library supporting several languages"
+},
+{
+    "Name"            : "libsysprof-capture",
+    "Description"     : "Kernel based performance profiler - capture library"
+},
+{
+    "Name"            : "libtasn1",
+    "Description"     : "The ASN.1 library used in GNUTLS"
+},
+{
+    "Name"            : "libteam",
+    "Description"     : "Library for controlling team network device"
+},
+{
+    "Name"            : "libtermkey",
+    "Description"     : "Library for easy processing of keyboard entry from terminal-based programs"
+},
+{
+    "Name"            : "libthai",
+    "Description"     : "Thai language support library"
+},
+{
+    "Name"            : "libtheora",
+    "Description"     : "Standard encoder and decoder library for the Theora video compression format"
+},
+{
+    "Name"            : "libtiff",
+    "Description"     : "Library for manipulation of TIFF images"
+},
+{
+    "Name"            : "libtirpc",
+    "Description"     : "Transport Independent RPC library (SunRPC replacement)"
+},
+{
+    "Name"            : "libtool",
+    "Description"     : "A generic library support script"
+},
+{
+    "Name"            : "libtorrent",
+    "Description"     : "BitTorrent library with a focus on high performance and good code"
+},
+{
+    "Name"            : "libtpms",
+    "Description"     : "Library providing a software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)"
+},
+{
+    "Name"            : "libtraceevent",
+    "Description"     : "Linux kernel trace event library"
+},
+{
+    "Name"            : "libtracefs",
+    "Description"     : "Linux kernel trace file system library"
+},
+{
+    "Name"            : "libunistring",
+    "Description"     : "Library for manipulating Unicode strings and C strings"
+},
+{
+    "Name"            : "libunwind",
+    "Description"     : "Portable and efficient C programming interface (API) to determine the call-chain of a program"
+},
+{
+    "Name"            : "liburcu",
+    "Description"     : "LGPLv2.1 userspace RCU (read-copy-update) library"
+},
+{
+    "Name"            : "liburing",
+    "Description"     : "Linux-native io_uring I/O access library"
+},
+{
+    "Name"            : "libusb",
+    "Description"     : "Library that provides generic access to USB devices"
+},
+{
+    "Name"            : "libusbmuxd",
+    "Description"     : "Client library to multiplex connections from and to iOS devices"
+},
+{
+    "Name"            : "libutempter",
+    "Description"     : "Interface for terminal emulators such as screen and xterm to record user sessions to utmp and "wtmp files
+},
+{
+    "Name"            : "libuv",
+    "Description"     : "Multi-platform support library with a focus on asynchronous I/O"
+},
+{
+    "Name"            : "libva",
+    "Description"     : "Video Acceleration (VA) API for Linux"
+},
+{
+    "Name"            : "libva-nvidia-driver-git",
+    "Description"     : "VA-API implementation that uses NVDEC as a backend (git version)"
+},
+{
+    "Name"            : "libvdpau",
+    "Description"     : "Nvidia VDPAU library"
+},
+{
+    "Name"            : "libverto",
+    "Description"     : "Main event loop abstraction library"
+},
+{
+    "Name"            : "libvips",
+    "Description"     : "A fast image processing library with low memory needs"
+},
+{
+    "Name"            : "libvirt",
+    "Description"     : "API for controlling virtualization engines (openvz,kvm,qemu,virtualbox,xen,etc)"
+},
+{
+    "Name"            : "libvirt-glib",
+    "Description"     : "GLib bindings for libvirt"
+},
+{
+    "Name"            : "libvirt-python",
+    "Description"     : "libvirt python binding"
+},
+{
+    "Name"            : "libvisio",
+    "Description"     : "Library providing ability to interpret and import visio diagrams"
+},
+{
+    "Name"            : "libvorbis",
+    "Description"     : "Reference implementation of the Ogg Vorbis audio format"
+},
+{
+    "Name"            : "libvpx",
+    "Description"     : "VP8 and VP9 codec"
+},
+{
+    "Name"            : "libvterm",
+    "Description"     : "Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator"
+},
+{
+    "Name"            : "libwacom",
+    "Description"     : "Library to identify Wacom tablets and their features"
+},
+{
+    "Name"            : "libwebp",
+    "Description"     : "WebP library and conversion tools"
+},
+{
+    "Name"            : "libwireplumber",
+    "Description"     : "Session / policy manager implementation for PipeWire - client library"
+},
+{
+    "Name"            : "libwpd",
+    "Description"     : "Library for importing WordPerfect (tm) documents"
+},
+{
+    "Name"            : "libwpg",
+    "Description"     : "Library for importing and converting Corel WordPerfect(tm) Graphics images."
+},
+{
+    "Name"            : "libx11",
+    "Description"     : "X11 client-side library"
+},
+{
+    "Name"            : "libxau",
+    "Description"     : "X11 authorisation library"
+},
+{
+    "Name"            : "libxcb",
+    "Description"     : "X11 client-side library"
+},
+{
+    "Name"            : "libxcomposite",
+    "Description"     : "X11 Composite extension library"
+},
+{
+    "Name"            : "libxcrypt",
+    "Description"     : "Modern library for one-way hashing of passwords"
+},
+{
+    "Name"            : "libxcursor",
+    "Description"     : "X cursor management library"
+},
+{
+    "Name"            : "libxcvt",
+    "Description"     : "library providing a standalone version of the X server implementation of the VESA CVT standard "timing modelines generator
+},
+{
+    "Name"            : "libxdamage",
+    "Description"     : "X11 damaged region extension library"
+},
+{
+    "Name"            : "libxdmcp",
+    "Description"     : "X11 Display Manager Control Protocol library"
+},
+{
+    "Name"            : "libxext",
+    "Description"     : "X11 miscellaneous extensions library"
+},
+{
+    "Name"            : "libxfce4util",
+    "Description"     : "Basic utility non-GUI functions for Xfce"
+},
+{
+    "Name"            : "libxfixes",
+    "Description"     : "X11 miscellaneous 'fixes' extension library"
+},
+{
+    "Name"            : "libxfont2",
+    "Description"     : "X11 font rasterisation library"
+},
+{
+    "Name"            : "libxft",
+    "Description"     : "FreeType-based font drawing library for X"
+},
+{
+    "Name"            : "libxi",
+    "Description"     : "X11 Input extension library"
+},
+{
+    "Name"            : "libxinerama",
+    "Description"     : "X11 Xinerama extension library"
+},
+{
+    "Name"            : "libxkbcommon",
+    "Description"     : "Keymap handling library for toolkits and window systems"
+},
+{
+    "Name"            : "libxkbcommon-x11",
+    "Description"     : "Keyboard handling library using XKB data for X11 XCB clients"
+},
+{
+    "Name"            : "libxkbfile",
+    "Description"     : "X11 keyboard file manipulation library"
+},
+{
+    "Name"            : "libxklavier",
+    "Description"     : "High-level API for X Keyboard Extension (deprecated)"
+},
+{
+    "Name"            : "libxml2",
+    "Description"     : "XML C parser and toolkit"
+},
+{
+    "Name"            : "libxmlb",
+    "Description"     : "Library to help create and query binary XML blobs"
+},
+{
+    "Name"            : "libxmu",
+    "Description"     : "X11 miscellaneous micro-utility library"
+},
+{
+    "Name"            : "libxnvctrl",
+    "Description"     : "NVIDIA NV-CONTROL X extension"
+},
+{
+    "Name"            : "libxpresent",
+    "Description"     : "X Present Extension library"
+},
+{
+    "Name"            : "libxrandr",
+    "Description"     : "X11 RandR extension library"
+},
+{
+    "Name"            : "libxrender",
+    "Description"     : "X Rendering Extension client library"
+},
+{
+    "Name"            : "libxshmfence",
+    "Description"     : "a library that exposes a event API on top of Linux futexes"
+},
+{
+    "Name"            : "libxslt",
+    "Description"     : "XML stylesheet transformation library"
+},
+{
+    "Name"            : "libxss",
+    "Description"     : "X11 Screen Saver extension library"
+},
+{
+    "Name"            : "libxt",
+    "Description"     : "X11 toolkit intrinsics library"
+},
+{
+    "Name"            : "libxtst",
+    "Description"     : "X11 Testing -- Resource extension library"
+},
+{
+    "Name"            : "libxv",
+    "Description"     : "X11 Video extension library"
+},
+{
+    "Name"            : "libxxf86vm",
+    "Description"     : "X11 XFree86 video mode extension library"
+},
+{
+    "Name"            : "libyaml",
+    "Description"     : "YAML 1.1 library"
+},
+{
+    "Name"            : "libyuv",
+    "Description"     : "Library for YUV scaling"
+},
+{
+    "Name"            : "licenses",
+    "Description"     : "A set of common license files"
+},
+{
+    "Name"            : "lilv",
+    "Description"     : "A C library interface to the LV2 plug-in standard"
+},
+{
+    "Name"            : "linux",
+    "Description"     : "The Linux kernel and modules"
+},
+{
+    "Name"            : "linux-api-headers",
+    "Description"     : "Kernel headers sanitized for use in userspace"
+},
+{
+    "Name"            : "linux-firmware",
+    "Description"     : "Firmware files for Linux"
+},
+{
+    "Name"            : "linux-firmware-whence",
+    "Description"     : "Firmware files for Linux - contains the WHENCE license file which documents the vendor license "details
+},
+{
+    "Name"            : "linux-headers",
+    "Description"     : "Headers and scripts for building modules for the Linux kernel"
+},
+{
+    "Name"            : "llvm-libs",
+    "Description"     : "LLVM runtime libraries"
+},
+{
+    "Name"            : "lm_sensors",
+    "Description"     : "Collection of user space tools for general SMBus access and hardware monitoring"
+},
+{
+    "Name"            : "looking-glass-git",
+    "Description"     : "A client application for accessing the LookingGlass IVSHMEM device of a VM"
+},
+{
+    "Name"            : "lsof",
+    "Description"     : "Lists open files for running Unix processes"
+},
+{
+    "Name"            : "lua",
+    "Description"     : "Powerful lightweight programming language designed for extending applications"
+},
+{
+    "Name"            : "lua51",
+    "Description"     : "Powerful lightweight programming language designed for extending applications"
+},
+{
+    "Name"            : "lua51-lpeg",
+    "Description"     : "Pattern-matching library for Lua 5.1"
+},
+{
+    "Name"            : "luajit",
+    "Description"     : "Just-in-time compiler and drop-in replacement for Lua 5.1"
+},
+{
+    "Name"            : "lv2",
+    "Description"     : "Plugin standard for audio systems"
+},
+{
+    "Name"            : "lvm2",
+    "Description"     : "Logical Volume Manager 2 utilities"
+},
+{
+    "Name"            : "lz4",
+    "Description"     : "Extremely fast compression algorithm"
+},
+{
+    "Name"            : "lzo",
+    "Description"     : "Portable lossless data compression library"
+},
+{
+    "Name"            : "m4",
+    "Description"     : "The GNU macro processor"
+},
+{
+    "Name"            : "mailcap",
+    "Description"     : "Helper application and MIME type associations for file types"
+},
+{
+    "Name"            : "make",
+    "Description"     : "GNU make utility to maintain groups of programs"
+},
+{
+    "Name"            : "mbedtls",
+    "Description"     : "An open source, portable, easy to use, readable and flexible TLS library"
+},
+{
+    "Name"            : "md4c",
+    "Description"     : "C Markdown parser"
+},
+{
+    "Name"            : "mdadm",
+    "Description"     : "A tool for managing/monitoring Linux md device arrays, also known as Software RAID"
+},
+{
+    "Name"            : "mesa",
+    "Description"     : "An open-source implementation of the OpenGL specification"
+},
+{
+    "Name"            : "meson",
+    "Description"     : "High productivity build system"
+},
+{
+    "Name"            : "microsoft-gsl",
+    "Description"     : "C++ Core Guidelines Support Library"
+},
+{
+    "Name"            : "mission-center",
+    "Description"     : "Monitor your CPU, Memory, Disk, Network and GPU usage"
+},
+{
+    "Name"            : "mkinitcpio",
+    "Description"     : "Modular initramfs image creation utility"
+},
+{
+    "Name"            : "mkinitcpio-busybox",
+    "Description"     : "Base initramfs tools"
+},
+{
+    "Name"            : "mobile-broadband-provider-info",
+    "Description"     : "APN configuration presets for mobile broadband connections"
+},
+{
+    "Name"            : "mongodb-bin",
+    "Description"     : "A high-performance, open source, schema-free document-oriented database"
+},
+{
+    "Name"            : "mongodb-compass",
+    "Description"     : "The MongoDB GUI"
+},
+{
+    "Name"            : "mongosh-bin",
+    "Description"     : "An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual "help and error messages.
+},
+{
+    "Name"            : "mousepad",
+    "Description"     : "Simple text editor for Xfce"
+},
+{
+    "Name"            : "mpfr",
+    "Description"     : "Multiple-precision floating-point library"
+},
+{
+    "Name"            : "mpg123",
+    "Description"     : "Console based real time MPEG Audio Player for Layer 1, 2 and 3"
+},
+{
+    "Name"            : "mpv",
+    "Description"     : "a free, open source, and cross-platform media player"
+},
+{
+    "Name"            : "msgpack-c",
+    "Description"     : "An efficient object serialization library"
+},
+{
+    "Name"            : "mtdev",
+    "Description"     : "A stand-alone library which transforms all variants of kernel MT events to the slotted type B "protocol
+},
+{
+    "Name"            : "mujs",
+    "Description"     : "An embeddable Javascript interpreter in C"
+},
+{
+    "Name"            : "multipath-tools",
+    "Description"     : "Multipath tools for Linux (including kpartx)"
+},
+{
+    "Name"            : "ncurses",
+    "Description"     : "System V Release 4.0 curses emulation library"
+},
+{
+    "Name"            : "ndctl",
+    "Description"     : "Utility library for managing the libnvdimm (non-volatile memory device) sub-system in the Linux "kernel
+},
+{
+    "Name"            : "nemo",
+    "Description"     : "Cinnamon file manager (Nautilus fork)"
+},
+{
+    "Name"            : "neo-matrix",
+    "Description"     : "Simulates the digital rain from "The Matrix""
+},
+{
+    "Name"            : "neofetch",
+    "Description"     : "A CLI system information tool written in BASH that supports displaying images."
+},
+{
+    "Name"            : "neovim-git",
+    "Description"     : "Fork of Vim aiming to improve user experience, plugins, and GUIs."
+},
+{
+    "Name"            : "nettle",
+    "Description"     : "A low-level cryptographic library"
+},
+{
+    "Name"            : "network-manager-applet",
+    "Description"     : "Applet for managing network connections"
+},
+{
+    "Name"            : "networkmanager",
+    "Description"     : "Network connection manager and user applications"
+},
+{
+    "Name"            : "nftables",
+    "Description"     : "Netfilter tables userspace tools"
+},
+{
+    "Name"            : "ninja",
+    "Description"     : "Small build system with a focus on speed"
+},
+{
+    "Name"            : "nlohmann-json",
+    "Description"     : "JSON for Modern C++"
+},
+{
+    "Name"            : "nm-connection-editor",
+    "Description"     : "NetworkManager GUI connection editor and widgets"
+},
+{
+    "Name"            : "noto-fonts-emoji",
+    "Description"     : "Google Noto emoji fonts"
+},
+{
+    "Name"            : "npth",
+    "Description"     : "The new GNU portable threads library"
+},
+{
+    "Name"            : "nspr",
+    "Description"     : "Netscape Portable Runtime"
+},
+{
+    "Name"            : "nss",
+    "Description"     : "Network Security Services"
+},
+{
+    "Name"            : "ntfs-3g",
+    "Description"     : "NTFS filesystem driver and utilities"
+},
+{
+    "Name"            : "numactl",
+    "Description"     : "Simple NUMA policy support"
+},
+{
+    "Name"            : "nvidia-dkms",
+    "Description"     : "NVIDIA drivers - module sources"
+},
+{
+    "Name"            : "nvidia-settings",
+    "Description"     : "Tool for configuring the NVIDIA graphics driver"
+},
+{
+    "Name"            : "nvidia-utils",
+    "Description"     : "NVIDIA drivers utilities"
+},
+{
+    "Name"            : "nvtop",
+    "Description"     : "GPUs process monitoring for AMD, Intel and NVIDIA"
+},
+{
+    "Name"            : "nwg-look-bin",
+    "Description"     : "GTK3 settings editor adapted to work w/ wlroots-based compositors (binary package)"
+},
+{
+    "Name"            : "obs-studio",
+    "Description"     : "Free, open source software for live streaming and recording"
+},
+{
+    "Name"            : "ocl-icd",
+    "Description"     : "OpenCL ICD Bindings"
+},
+{
+    "Name"            : "onetbb",
+    "Description"     : "High level abstract threading library (oneAPI Threading Building Blocks)"
+},
+{
+    "Name"            : "onevpl",
+    "Description"     : "oneAPI Video Processing Library"
+},
+{
+    "Name"            : "oniguruma",
+    "Description"     : "a regular expressions library"
+},
+{
+    "Name"            : "opencore-amr",
+    "Description"     : "Open source implementation of the Adaptive Multi Rate (AMR) speech codec"
+},
+{
+    "Name"            : "opencv",
+    "Description"     : "Open Source Computer Vision Library"
+},
+{
+    "Name"            : "openexr",
+    "Description"     : "A high dynamic-range image file format library"
+},
+{
+    "Name"            : "openjpeg2",
+    "Description"     : "An open source JPEG 2000 codec, version 2.5.0"
+},
+{
+    "Name"            : "openmpi",
+    "Description"     : "High performance message passing library (MPI)"
+},
+{
+    "Name"            : "openpmix",
+    "Description"     : "Extended version of the PMI standard"
+},
+{
+    "Name"            : "openssh",
+    "Description"     : "SSH protocol implementation for remote login, command execution and file transfer"
+},
+{
+    "Name"            : "openssl",
+    "Description"     : "The Open Source toolkit for Secure Sockets Layer and Transport Layer Security"
+},
+{
+    "Name"            : "openssl-1.1",
+    "Description"     : "The Open Source toolkit for Secure Sockets Layer and Transport Layer Security"
+},
+{
+    "Name"            : "opus",
+    "Description"     : "Totally open, royalty-free, highly versatile audio codec"
+},
+{
+    "Name"            : "orc",
+    "Description"     : "Optimized Inner Loop Runtime Compiler"
+},
+{
+    "Name"            : "os-prober",
+    "Description"     : "Utility to detect other OSes on a set of drives"
+},
+{
+    "Name"            : "osinfo-db",
+    "Description"     : "Osinfo database of information about operating systems for virtualization provisioning tools"
+},
+{
+    "Name"            : "ostree",
+    "Description"     : "Operating system and container binary deployment and upgrades"
+},
+{
+    "Name"            : "otf-font-awesome",
+    "Description"     : "Iconic font designed for Bootstrap"
+},
+{
+    "Name"            : "otf-font-awesome-4",
+    "Description"     : "100% free version of font awesome."
+},
+{
+    "Name"            : "p11-kit",
+    "Description"     : "Loads and enumerates PKCS#11 modules"
+},
+{
+    "Name"            : "pacman",
+    "Description"     : "A library-based package manager with dependency support"
+},
+{
+    "Name"            : "pacman-mirrorlist",
+    "Description"     : "Arch Linux mirror list for use by pacman"
+},
+{
+    "Name"            : "pahole",
+    "Description"     : "Pahole and other DWARF utils"
+},
+{
+    "Name"            : "pam",
+    "Description"     : "PAM (Pluggable Authentication Modules) library"
+},
+{
+    "Name"            : "pambase",
+    "Description"     : "Base PAM configuration for services"
+},
+{
+    "Name"            : "pamixer",
+    "Description"     : "Pulseaudio command-line mixer like amixer"
+},
+{
+    "Name"            : "pango",
+    "Description"     : "A library for layout and rendering of text"
+},
+{
+    "Name"            : "pangomm",
+    "Description"     : "C++ bindings for Pango"
+},
+{
+    "Name"            : "parted",
+    "Description"     : "A program for creating, destroying, resizing, checking and copying partitions"
+},
+{
+    "Name"            : "patch",
+    "Description"     : "A utility to apply patch files to original sources"
+},
+{
+    "Name"            : "pavucontrol",
+    "Description"     : "PulseAudio Volume Control"
+},
+{
+    "Name"            : "pciutils",
+    "Description"     : "PCI bus configuration space access library and tools"
+},
+{
+    "Name"            : "pcre",
+    "Description"     : "A deprecated library that implements Perl 5-style regular expressions"
+},
+{
+    "Name"            : "pcre2",
+    "Description"     : "A library that implements Perl 5-style regular expressions. 2nd version"
+},
+{
+    "Name"            : "pcsclite",
+    "Description"     : "PC/SC Architecture smartcard middleware library"
+},
+{
+    "Name"            : "perl",
+    "Description"     : "A highly capable, feature-rich programming language"
+},
+{
+    "Name"            : "perl-error",
+    "Description"     : "Perl/CPAN Error module - Error/exception handling in an OO-ish way"
+},
+{
+    "Name"            : "perl-mailtools",
+    "Description"     : "Various e-mail related modules"
+},
+{
+    "Name"            : "perl-timedate",
+    "Description"     : "Date formating subroutines"
+},
+{
+    "Name"            : "phodav",
+    "Description"     : "WebDav server implementation using libsoup (RFC 4918)"
+},
+{
+    "Name"            : "pinentry",
+    "Description"     : "Collection of simple PIN or passphrase entry dialogs which utilize the Assuan protocol"
+},
+{
+    "Name"            : "pipewire",
+    "Description"     : "Low-latency audio/video router and processor"
+},
+{
+    "Name"            : "pipewire-alsa",
+    "Description"     : "Low-latency audio/video router and processor - ALSA configuration"
+},
+{
+    "Name"            : "pipewire-audio",
+    "Description"     : "Low-latency audio/video router and processor - Audio support"
+},
+{
+    "Name"            : "pipewire-jack",
+    "Description"     : "Low-latency audio/video router and processor - JACK replacement"
+},
+{
+    "Name"            : "pipewire-pulse",
+    "Description"     : "Low-latency audio/video router and processor - PulseAudio replacement"
+},
+{
+    "Name"            : "pixman",
+    "Description"     : "The pixel-manipulation library for X and cairo"
+},
+{
+    "Name"            : "pkgconf",
+    "Description"     : "Package compiler and linker metadata toolkit"
+},
+{
+    "Name"            : "playerctl",
+    "Description"     : "mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others."
+},
+{
+    "Name"            : "polkit",
+    "Description"     : "Application development toolkit for controlling system-wide privileges"
+},
+{
+    "Name"            : "polkit-kde-agent",
+    "Description"     : "Daemon providing a polkit authentication UI for KDE"
+},
+{
+    "Name"            : "polkit-qt5",
+    "Description"     : "A library that allows developers to access PolicyKit API with a nice Qt-style API"
+},
+{
+    "Name"            : "poppler",
+    "Description"     : "PDF rendering library based on xpdf 3.0"
+},
+{
+    "Name"            : "poppler-glib",
+    "Description"     : "Poppler glib bindings"
+},
+{
+    "Name"            : "popt",
+    "Description"     : "A commandline option parser"
+},
+{
+    "Name"            : "portaudio",
+    "Description"     : "A free, cross-platform, open source, audio I/O library."
+},
+{
+    "Name"            : "postman-bin",
+    "Description"     : "Build, test, and document your APIs faster"
+},
+{
+    "Name"            : "potrace",
+    "Description"     : "Utility for tracing a bitmap (input: PBM,PGM,PPM,BMP; output: EPS,PS,PDF,SVG,DXF,PGM,Gimppath,"XFig)
+},
+{
+    "Name"            : "procps-ng",
+    "Description"     : "Utilities for monitoring your system and its processes"
+},
+{
+    "Name"            : "protobuf",
+    "Description"     : "Protocol Buffers - Google's data interchange format"
+},
+{
+    "Name"            : "psmisc",
+    "Description"     : "Miscellaneous procfs tools"
+},
+{
+    "Name"            : "python",
+    "Description"     : "Next generation of the python high-level scripting language"
+},
+{
+    "Name"            : "python-appdirs",
+    "Description"     : "A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir"."
+},
+{
+    "Name"            : "python-beautifulsoup4",
+    "Description"     : "A Python HTML/XML parser designed for quick turnaround projects like screen-scraping"
+},
+{
+    "Name"            : "python-cachecontrol",
+    "Description"     : "httplib2 caching for requests"
+},
+{
+    "Name"            : "python-cairo",
+    "Description"     : "Python bindings for the cairo graphics library"
+},
+{
+    "Name"            : "python-certifi",
+    "Description"     : "Python package for providing Mozilla's CA Bundle (using system CA store)"
+},
+{
+    "Name"            : "python-chardet",
+    "Description"     : "Python3 module for character encoding auto-detection"
+},
+{
+    "Name"            : "python-charset-normalizer",
+    "Description"     : "Encoding and language detection alternative to chardet"
+},
+{
+    "Name"            : "python-coverage",
+    "Description"     : "A tool for measuring code coverage of Python programs"
+},
+{
+    "Name"            : "python-cssselect",
+    "Description"     : "A Python3 library that parses CSS3 Selectors and translates them to XPath 1.0"
+},
+{
+    "Name"            : "python-filelock",
+    "Description"     : "A platform independent file lock"
+},
+{
+    "Name"            : "python-gobject",
+    "Description"     : "Python bindings for GLib/GObject/GIO/GTK"
+},
+{
+    "Name"            : "python-idna",
+    "Description"     : "Internationalized Domain"
+},
+{
+    "Name"            : "python-lockfile",
+    "Description"     : "Platform-independent file locking module"
+},
+{
+    "Name"            : "python-lxml",
+    "Description"     : "Python3 binding for the libxml2 and libxslt libraries"
+},
+{
+    "Name"            : "python-mako",
+    "Description"     : "A super-fast templating language that borrows the best ideas from the existing templating "languages
+},
+{
+    "Name"            : "python-markdown",
+    "Description"     : "Python implementation of John Gruber's Markdown"
+},
+{
+    "Name"            : "python-markupsafe",
+    "Description"     : "Implements a XML/HTML/XHTML Markup safe string for Python"
+},
+{
+    "Name"            : "python-msgpack",
+    "Description"     : "MessagePack serializer implementation for Python"
+},
+{
+    "Name"            : "python-numpy",
+    "Description"     : "Scientific tools for Python"
+},
+{
+    "Name"            : "python-packaging",
+    "Description"     : "Core utilities for Python packages"
+},
+{
+    "Name"            : "python-pillow",
+    "Description"     : "Python Imaging Library (PIL) fork"
+},
+{
+    "Name"            : "python-pyserial",
+    "Description"     : "Multiplatform Serial Port Module for Python"
+},
+{
+    "Name"            : "python-pyxdg",
+    "Description"     : "Python library to access freedesktop.org standards"
+},
+{
+    "Name"            : "python-requests",
+    "Description"     : "Python HTTP for Humans"
+},
+{
+    "Name"            : "python-six",
+    "Description"     : "Python 2 and 3 compatibility utilities"
+},
+{
+    "Name"            : "python-soupsieve",
+    "Description"     : "A CSS4 selector implementation for Beautiful Soup"
+},
+{
+    "Name"            : "python-tqdm",
+    "Description"     : "Fast, Extensible Progress Meter"
+},
+{
+    "Name"            : "python-typing_extensions",
+    "Description"     : "Backported and Experimental Type Hints for Python 3.8+"
+},
+{
+    "Name"            : "python-urllib3",
+    "Description"     : "HTTP library with thread-safe connection pooling and file post support"
+},
+{
+    "Name"            : "python-zstandard",
+    "Description"     : "Python bindings to the Zstandard (zstd) compression library"
+},
+{
+    "Name"            : "qemu-audio-alsa",
+    "Description"     : "QEMU ALSA audio driver"
+},
+{
+    "Name"            : "qemu-audio-dbus",
+    "Description"     : "QEMU D-Bus audio driver"
+},
+{
+    "Name"            : "qemu-audio-jack",
+    "Description"     : "QEMU JACK audio driver"
+},
+{
+    "Name"            : "qemu-audio-oss",
+    "Description"     : "QEMU OSS audio driver"
+},
+{
+    "Name"            : "qemu-audio-pa",
+    "Description"     : "QEMU PulseAudio audio driver"
+},
+{
+    "Name"            : "qemu-audio-pipewire",
+    "Description"     : "QEMU PipeWire audio driver"
+},
+{
+    "Name"            : "qemu-audio-sdl",
+    "Description"     : "QEMU SDL audio driver"
+},
+{
+    "Name"            : "qemu-audio-spice",
+    "Description"     : "QEMU spice audio driver"
+},
+{
+    "Name"            : "qemu-base",
+    "Description"     : "A basic QEMU setup for headless environments"
+},
+{
+    "Name"            : "qemu-block-curl",
+    "Description"     : "QEMU curl block driver"
+},
+{
+    "Name"            : "qemu-block-dmg",
+    "Description"     : "QEMU DMG block driver"
+},
+{
+    "Name"            : "qemu-block-gluster",
+    "Description"     : "QEMU Gluster block driver"
+},
+{
+    "Name"            : "qemu-block-iscsi",
+    "Description"     : "QEMU iSCSI block driver"
+},
+{
+    "Name"            : "qemu-block-nfs",
+    "Description"     : "QEMU NFS block driver"
+},
+{
+    "Name"            : "qemu-block-ssh",
+    "Description"     : "QEMU SSH block driver"
+},
+{
+    "Name"            : "qemu-chardev-baum",
+    "Description"     : "QEMU Baum chardev driver"
+},
+{
+    "Name"            : "qemu-chardev-spice",
+    "Description"     : "QEMU spice chardev driver"
+},
+{
+    "Name"            : "qemu-common",
+    "Description"     : "A generic and open source machine emulator and virtualizer"
+},
+{
+    "Name"            : "qemu-desktop",
+    "Description"     : "A QEMU setup for desktop environments"
+},
+{
+    "Name"            : "qemu-docs",
+    "Description"     : "A generic and open source machine emulator and virtualizer - documentation"
+},
+{
+    "Name"            : "qemu-emulators-full",
+    "Description"     : "All QEMU user mode and system emulators"
+},
+{
+    "Name"            : "qemu-full",
+    "Description"     : "A full QEMU setup"
+},
+{
+    "Name"            : "qemu-hw-display-qxl",
+    "Description"     : "QEMU QXL display device"
+},
+{
+    "Name"            : "qemu-hw-display-virtio-gpu",
+    "Description"     : "QEMU virtio-gpu display device"
+},
+{
+    "Name"            : "qemu-hw-display-virtio-gpu-gl",
+    "Description"     : "QEMU virtio-gpu-gl display device"
+},
+{
+    "Name"            : "qemu-hw-display-virtio-gpu-pci",
+    "Description"     : "QEMU virtio-gpu-pci display device"
+},
+{
+    "Name"            : "qemu-hw-display-virtio-gpu-pci-gl",
+    "Description"     : "QEMU virtio-gpu-pci-gl display device"
+},
+{
+    "Name"            : "qemu-hw-display-virtio-vga",
+    "Description"     : "QEMU virtio-vga display device"
+},
+{
+    "Name"            : "qemu-hw-display-virtio-vga-gl",
+    "Description"     : "QEMU virtio-vga-gl display device"
+},
+{
+    "Name"            : "qemu-hw-s390x-virtio-gpu-ccw",
+    "Description"     : "QEMU s390x-virtio-gpu-ccw display device"
+},
+{
+    "Name"            : "qemu-hw-usb-host",
+    "Description"     : "QEMU USB host device"
+},
+{
+    "Name"            : "qemu-hw-usb-redirect",
+    "Description"     : "QEMU usbredir device"
+},
+{
+    "Name"            : "qemu-hw-usb-smartcard",
+    "Description"     : "QEMU USB smartcard device"
+},
+{
+    "Name"            : "qemu-img",
+    "Description"     : "QEMU tooling for manipulating disk images"
+},
+{
+    "Name"            : "qemu-pr-helper",
+    "Description"     : "QEMU persistent reservation utility"
+},
+{
+    "Name"            : "qemu-system-aarch64",
+    "Description"     : "QEMU system emulator for AARCH64"
+},
+{
+    "Name"            : "qemu-system-alpha",
+    "Description"     : "QEMU system emulator for Alpha"
+},
+{
+    "Name"            : "qemu-system-alpha-firmware",
+    "Description"     : "Firmware for QEMU system emulator for Alpha"
+},
+{
+    "Name"            : "qemu-system-arm",
+    "Description"     : "QEMU system emulator for ARM"
+},
+{
+    "Name"            : "qemu-system-arm-firmware",
+    "Description"     : "Firmware for QEMU system emulator for ARM"
+},
+{
+    "Name"            : "qemu-system-avr",
+    "Description"     : "QEMU system emulator for AVR"
+},
+{
+    "Name"            : "qemu-system-cris",
+    "Description"     : "QEMU system emulator for CRIS"
+},
+{
+    "Name"            : "qemu-system-hppa",
+    "Description"     : "QEMU system emulator for HPPA"
+},
+{
+    "Name"            : "qemu-system-hppa-firmware",
+    "Description"     : "Firmware for QEMU system emulator for HPPA"
+},
+{
+    "Name"            : "qemu-system-loongarch64",
+    "Description"     : "QEMU system emulator for LoongArch64"
+},
+{
+    "Name"            : "qemu-system-m68k",
+    "Description"     : "QEMU system emulator for ColdFire (m68k)"
+},
+{
+    "Name"            : "qemu-system-microblaze",
+    "Description"     : "QEMU system emulator for Microblaze"
+},
+{
+    "Name"            : "qemu-system-microblaze-firmware",
+    "Description"     : "Firmware for QEMU system emulator for Microblaze"
+},
+{
+    "Name"            : "qemu-system-mips",
+    "Description"     : "QEMU system emulator for MIPS"
+},
+{
+    "Name"            : "qemu-system-nios2",
+    "Description"     : "QEMU system emulator for nios2"
+},
+{
+    "Name"            : "qemu-system-or1k",
+    "Description"     : "QEMU system emulator for OpenRisc32"
+},
+{
+    "Name"            : "qemu-system-ppc",
+    "Description"     : "QEMU system emulator for PPC"
+},
+{
+    "Name"            : "qemu-system-ppc-firmware",
+    "Description"     : "Firmware for QEMU system emulator for PPC"
+},
+{
+    "Name"            : "qemu-system-riscv",
+    "Description"     : "QEMU system emulator for RISC-V"
+},
+{
+    "Name"            : "qemu-system-riscv-firmware",
+    "Description"     : "Firmware for QEMU system emulator for RISC-V"
+},
+{
+    "Name"            : "qemu-system-rx",
+    "Description"     : "QEMU system emulator for RX"
+},
+{
+    "Name"            : "qemu-system-s390x",
+    "Description"     : "QEMU system emulator for S390"
+},
+{
+    "Name"            : "qemu-system-s390x-firmware",
+    "Description"     : "Firmware for QEMU system emulator for S390"
+},
+{
+    "Name"            : "qemu-system-sh4",
+    "Description"     : "QEMU system emulator for SH4"
+},
+{
+    "Name"            : "qemu-system-sparc",
+    "Description"     : "QEMU system emulator for SPARC"
+},
+{
+    "Name"            : "qemu-system-sparc-firmware",
+    "Description"     : "Firmware for QEMU system emulator for SPARC"
+},
+{
+    "Name"            : "qemu-system-tricore",
+    "Description"     : "QEMU system emulator for tricore"
+},
+{
+    "Name"            : "qemu-system-x86",
+    "Description"     : "QEMU system emulator for x86"
+},
+{
+    "Name"            : "qemu-system-x86-firmware",
+    "Description"     : "Firmware for QEMU system emulator for x86"
+},
+{
+    "Name"            : "qemu-system-xtensa",
+    "Description"     : "QEMU system emulator for Xtensa"
+},
+{
+    "Name"            : "qemu-tests",
+    "Description"     : "QEMU tests"
+},
+{
+    "Name"            : "qemu-tools",
+    "Description"     : "QEMU tools"
+},
+{
+    "Name"            : "qemu-ui-curses",
+    "Description"     : "QEMU curses UI driver"
+},
+{
+    "Name"            : "qemu-ui-dbus",
+    "Description"     : "QEMU D-Bus UI driver"
+},
+{
+    "Name"            : "qemu-ui-egl-headless",
+    "Description"     : "QEMU EGL headless UI driver"
+},
+{
+    "Name"            : "qemu-ui-gtk",
+    "Description"     : "QEMU GTK UI driver"
+},
+{
+    "Name"            : "qemu-ui-opengl",
+    "Description"     : "QEMU OpenGL UI driver"
+},
+{
+    "Name"            : "qemu-ui-sdl",
+    "Description"     : "QEMU SDL UI driver"
+},
+{
+    "Name"            : "qemu-ui-spice-app",
+    "Description"     : "QEMU spice app UI driver"
+},
+{
+    "Name"            : "qemu-ui-spice-core",
+    "Description"     : "QEMU spice core UI driver"
+},
+{
+    "Name"            : "qemu-user",
+    "Description"     : "QEMU user mode emulation"
+},
+{
+    "Name"            : "qemu-vhost-user-gpu",
+    "Description"     : "QEMU vhost-user-gpu display device"
+},
+{
+    "Name"            : "qt5-base",
+    "Description"     : "A cross-platform application and UI framework"
+},
+{
+    "Name"            : "qt5-declarative",
+    "Description"     : "Classes for QML and JavaScript languages"
+},
+{
+    "Name"            : "qt5-graphicaleffects",
+    "Description"     : "Graphical effects for use with Qt Quick 2"
+},
+{
+    "Name"            : "qt5-quickcontrols2",
+    "Description"     : "Next generation user interface controls based on Qt Quick"
+},
+{
+    "Name"            : "qt5-svg",
+    "Description"     : "Classes for displaying the contents of SVG files"
+},
+{
+    "Name"            : "qt5-translations",
+    "Description"     : "A cross-platform application and UI framework (Translations)"
+},
+{
+    "Name"            : "qt5-wayland",
+    "Description"     : "Provides APIs for Wayland"
+},
+{
+    "Name"            : "qt5-x11extras",
+    "Description"     : "Provides platform-specific APIs for X11"
+},
+{
+    "Name"            : "qt5ct",
+    "Description"     : "Qt5 Configuration Utility"
+},
+{
+    "Name"            : "qt6-base",
+    "Description"     : "A cross-platform application and UI framework"
+},
+{
+    "Name"            : "qt6-declarative",
+    "Description"     : "Classes for QML and JavaScript languages"
+},
+{
+    "Name"            : "qt6-svg",
+    "Description"     : "Classes for displaying the contents of SVG files"
+},
+{
+    "Name"            : "qt6-translations",
+    "Description"     : "A cross-platform application and UI framework (Translations)"
+},
+{
+    "Name"            : "qt6-wayland",
+    "Description"     : "Provides APIs for Wayland"
+},
+{
+    "Name"            : "ragel",
+    "Description"     : "Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D "code.
+},
+{
+    "Name"            : "ranger",
+    "Description"     : "Simple, vim-like file manager"
+},
+{
+    "Name"            : "rav1e",
+    "Description"     : "An AV1 encoder focused on speed and safety"
+},
+{
+    "Name"            : "readline",
+    "Description"     : "GNU readline library"
+},
+{
+    "Name"            : "rhash",
+    "Description"     : "Utility for verifying hash sums of files"
+},
+{
+    "Name"            : "rnnoise",
+    "Description"     : "A noise suppression library based on a recurrent neural network"
+},
+{
+    "Name"            : "rpcbind",
+    "Description"     : "portmap replacement which supports RPC over various protocols"
+},
+{
+    "Name"            : "rsync",
+    "Description"     : "A fast and versatile file copying tool for remote and local files"
+},
+{
+    "Name"            : "rtkit",
+    "Description"     : "Realtime Policy and Watchdog Daemon"
+},
+{
+    "Name"            : "rubberband",
+    "Description"     : "Time-stretching and pitch-shifting audio library and utility"
+},
+{
+    "Name"            : "run-parts",
+    "Description"     : "run scripts or programs in a directory"
+},
+{
+    "Name"            : "rust",
+    "Description"     : "Systems programming language focused on safety, speed and concurrency"
+},
+{
+    "Name"            : "sbc",
+    "Description"     : "Bluetooth Subband Codec (SBC) library"
+},
+{
+    "Name"            : "scour",
+    "Description"     : "An SVG scrubber"
+},
+{
+    "Name"            : "sdbus-cpp",
+    "Description"     : "a high-level C++ D-Bus library designed to provide expressive, easy-to-use API"
+},
+{
+    "Name"            : "sddm-git",
+    "Description"     : "The Simple Desktop Display Manager"
+},
+{
+    "Name"            : "sddm-theme-tokyo-night",
+    "Description"     : "A Tokyo Night theme for the SDDM Login Manager"
+},
+{
+    "Name"            : "sdl2",
+    "Description"     : "A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard "(Version 2)
+},
+{
+    "Name"            : "sdl2_image",
+    "Description"     : "A simple library to load images of various formats as SDL surfaces (Version 2)"
+},
+{
+    "Name"            : "seabios",
+    "Description"     : "Open-source legacy BIOS implementation"
+},
+{
+    "Name"            : "seatd",
+    "Description"     : "A minimal seat management daemon, and a universal seat management library"
+},
+{
+    "Name"            : "sed",
+    "Description"     : "GNU stream editor"
+},
+{
+    "Name"            : "serd",
+    "Description"     : "Lightweight C library for RDF syntax supporting reading/ writing Turtle and NTriples"
+},
+{
+    "Name"            : "shaderc",
+    "Description"     : "Collection of tools, libraries and tests for shader compilation"
+},
+{
+    "Name"            : "shadow",
+    "Description"     : "Password and account management tool suite with support for shadow files and PAM"
+},
+{
+    "Name"            : "shared-mime-info",
+    "Description"     : "Freedesktop.org Shared MIME Info"
+},
+{
+    "Name"            : "slang",
+    "Description"     : "S-Lang is a powerful interpreted language"
+},
+{
+    "Name"            : "slurp",
+    "Description"     : "Select a region in a Wayland compositor"
+},
+{
+    "Name"            : "snappy",
+    "Description"     : "A fast compressor/decompressor library"
+},
+{
+    "Name"            : "sndio",
+    "Description"     : "A small audio and MIDI framework part of the OpenBSD project"
+},
+{
+    "Name"            : "sord",
+    "Description"     : "A lightweight C library for storing RDF data in memory"
+},
+{
+    "Name"            : "sound-theme-freedesktop",
+    "Description"     : "Freedesktop sound theme"
+},
+{
+    "Name"            : "source-highlight",
+    "Description"     : "Convert source code to syntax highlighted document"
+},
+{
+    "Name"            : "spdlog",
+    "Description"     : "Very fast, header-only/compiled, C++ logging library"
+},
+{
+    "Name"            : "speex",
+    "Description"     : "A free codec for free speech"
+},
+{
+    "Name"            : "speexdsp",
+    "Description"     : "DSP library derived from Speex"
+},
+{
+    "Name"            : "spice",
+    "Description"     : "SPICE server"
+},
+{
+    "Name"            : "spice-gtk",
+    "Description"     : "GTK+ client library for SPICE"
+},
+{
+    "Name"            : "spice-protocol",
+    "Description"     : "Headers for SPICE protocol"
+},
+{
+    "Name"            : "spirv-tools",
+    "Description"     : "API and commands for processing SPIR-V modules"
+},
+{
+    "Name"            : "sqlite",
+    "Description"     : "A C library that implements an SQL database engine"
+},
+{
+    "Name"            : "sratom",
+    "Description"     : "An LV2 Atom RDF serialisation library"
+},
+{
+    "Name"            : "srt",
+    "Description"     : "Secure Reliable Transport library"
+},
+{
+    "Name"            : "sudo",
+    "Description"     : "Give certain users the ability to run some commands as root"
+},
+{
+    "Name"            : "svt-av1",
+    "Description"     : "Scalable Video Technology AV1 encoder and decoder"
+},
+{
+    "Name"            : "swappy",
+    "Description"     : "A Wayland native snapshot editing tool"
+},
+{
+    "Name"            : "swaybg",
+    "Description"     : "Wallpaper tool for Wayland compositors"
+},
+{
+    "Name"            : "swayidle",
+    "Description"     : "Idle management daemon for Wayland"
+},
+{
+    "Name"            : "swaylock-effects",
+    "Description"     : "A fancier screen locker for Wayland."
+},
+{
+    "Name"            : "swtpm",
+    "Description"     : "Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface"
+},
+{
+    "Name"            : "swww",
+    "Description"     : "Efficient animated wallpaper daemon for wayland, controlled at runtime."
+},
+{
+    "Name"            : "sxiv",
+    "Description"     : "Simple X Image Viewer"
+},
+{
+    "Name"            : "systemd",
+    "Description"     : "system and service manager"
+},
+{
+    "Name"            : "systemd-libs",
+    "Description"     : "systemd client libraries"
+},
+{
+    "Name"            : "systemd-sysvcompat",
+    "Description"     : "sysvinit compat for systemd"
+},
+{
+    "Name"            : "taglib",
+    "Description"     : "A Library for reading and editing the meta-data of several popular audio formats"
+},
+{
+    "Name"            : "tar",
+    "Description"     : "Utility used to store, backup, and transport files"
+},
+{
+    "Name"            : "tdb",
+    "Description"     : "Trivial Database similar to GDBM but allows simultaneous commits"
+},
+{
+    "Name"            : "texinfo",
+    "Description"     : "GNU documentation system for on-line information and printed output"
+},
+{
+    "Name"            : "thin-provisioning-tools",
+    "Description"     : "Suite of tools for manipulating the metadata of the dm-thin device-mapper target"
+},
+{
+    "Name"            : "timeshift",
+    "Description"     : "A system restore utility for Linux"
+},
+{
+    "Name"            : "tmux",
+    "Description"     : "Terminal multiplexer"
+},
+{
+    "Name"            : "tpm2-tss",
+    "Description"     : "Implementation of the TCG Trusted Platform Module 2.0 Software Stack (TSS2)"
+},
+{
+    "Name"            : "tracker3",
+    "Description"     : "SQLite-based RDF triplestore database with SPARQL interface"
+},
+{
+    "Name"            : "tree-sitter",
+    "Description"     : "Incremental parsing library"
+},
+{
+    "Name"            : "tslib",
+    "Description"     : "Touchscreen Access Library"
+},
+{
+    "Name"            : "ttf-dejavu",
+    "Description"     : "Font family based on the Bitstream Vera Fonts with a wider range of characters"
+},
+{
+    "Name"            : "ttf-droid",
+    "Description"     : "General-purpose fonts released by Google as part of Android"
+},
+{
+    "Name"            : "ttf-fantasque-sans-mono",
+    "Description"     : "Font family with a great monospaced variant for programmers"
+},
+{
+    "Name"            : "ttf-jetbrains-mono",
+    "Description"     : "Typeface for developers, by JetBrains"
+},
+{
+    "Name"            : "ttf-jetbrains-mono-nerd",
+    "Description"     : "Patched font JetBrains Mono from nerd fonts library"
+},
+{
+    "Name"            : "tumbler",
+    "Description"     : "Thumbnail service implementing the thumbnail management D-Bus specification"
+},
+{
+    "Name"            : "turbo-base64",
+    "Description"     : "Fastest Base64 SIMD Encoding library"
+},
+{
+    "Name"            : "twolame",
+    "Description"     : "An optimized MPEG Audio Layer 2 (MP2) encoder"
+},
+{
+    "Name"            : "tzdata",
+    "Description"     : "Sources for time zone and daylight saving time data"
+},
+{
+    "Name"            : "uchardet",
+    "Description"     : "Encoding detector library ported from Mozilla"
+},
+{
+    "Name"            : "udisks2",
+    "Description"     : "Daemon, tools and libraries to access and manipulate disks, storage devices and technologies"
+},
+{
+    "Name"            : "ueberzugpp",
+    "Description"     : "Command line util which allows to display images in combination with X11 written in C++"
+},
+{
+    "Name"            : "ueberzugpp-debug",
+    "Description"     : "Detached debugging symbols for ueberzugpp"
+},
+{
+    "Name"            : "unibilium",
+    "Description"     : "A terminfo parsing library"
+},
+{
+    "Name"            : "unzip",
+    "Description"     : "For extracting and viewing files in .zip archives"
+},
+{
+    "Name"            : "upower",
+    "Description"     : "Abstraction for enumerating power devices, listening to device events and querying history and "statistics
+},
+{
+    "Name"            : "usbmuxd",
+    "Description"     : "USB Multiplex Daemon"
+},
+{
+    "Name"            : "usbredir",
+    "Description"     : "USB traffic redirection protocol"
+},
+{
+    "Name"            : "util-linux",
+    "Description"     : "Miscellaneous system utilities for Linux"
+},
+{
+    "Name"            : "util-linux-libs",
+    "Description"     : "util-linux runtime libraries"
+},
+{
+    "Name"            : "v4l-utils",
+    "Description"     : "Userspace tools and conversion library for Video 4 Linux"
+},
+{
+    "Name"            : "vde2",
+    "Description"     : "Virtual Distributed Ethernet for emulators like qemu"
+},
+{
+    "Name"            : "vid.stab",
+    "Description"     : "Video stabilization library"
+},
+{
+    "Name"            : "viewnior",
+    "Description"     : "A simple, fast and elegant image viewer program"
+},
+{
+    "Name"            : "vim",
+    "Description"     : "Vi Improved, a highly configurable, improved version of the vi text editor"
+},
+{
+    "Name"            : "vim-runtime",
+    "Description"     : "Vi Improved, a highly configurable, improved version of the vi text editor (shared runtime)"
+},
+{
+    "Name"            : "virglrenderer",
+    "Description"     : "A virtual 3D GPU library, that allows the guest operating system to use the host GPU to "accelerate 3D rendering
+},
+{
+    "Name"            : "virt-install",
+    "Description"     : "Command line tool for creating new KVM , Xen, or Linux container guests using the libvirt "hypervisor
+},
+{
+    "Name"            : "virt-manager",
+    "Description"     : "Desktop user interface for managing virtual machines"
+},
+{
+    "Name"            : "virt-viewer",
+    "Description"     : "A lightweight interface for interacting with the graphical display of virtualized guest OS."
+},
+{
+    "Name"            : "virtiofsd",
+    "Description"     : "Vhost-user virtio-fs device backend written in Rust"
+},
+{
+    "Name"            : "visual-studio-code-bin",
+    "Description"     : "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications "(official binary version)
+},
+{
+    "Name"            : "vmaf",
+    "Description"     : "Perceptual video quality assessment algorithm based on multi-method fusion"
+},
+{
+    "Name"            : "volume_key",
+    "Description"     : "A library for manipulating storage volume encryption keys and storing them separately from "volumes to handle forgotten passphrases
+},
+{
+    "Name"            : "vte-common",
+    "Description"     : "Virtual Terminal Emulator widget (common files)"
+},
+{
+    "Name"            : "vte3",
+    "Description"     : "Virtual Terminal Emulator widget (GTK3)"
+},
+{
+    "Name"            : "vulkan-headers",
+    "Description"     : "Vulkan header files"
+},
+{
+    "Name"            : "vulkan-icd-loader",
+    "Description"     : "Vulkan Installable Client Driver (ICD) Loader"
+},
+{
+    "Name"            : "vulkan-validation-layers",
+    "Description"     : "Vulkan Validation Layers"
+},
+{
+    "Name"            : "wavpack",
+    "Description"     : "Audio compression format with lossless, lossy and hybrid compression modes"
+},
+{
+    "Name"            : "waybar",
+    "Description"     : "Highly customizable Wayland bar for Sway and Wlroots based compositors"
+},
+{
+    "Name"            : "wayland",
+    "Description"     : "A computer display server protocol"
+},
+{
+    "Name"            : "wayland-protocols",
+    "Description"     : "Specifications of extended Wayland protocols"
+},
+{
+    "Name"            : "webrtc-audio-processing-1",
+    "Description"     : "AudioProcessing library based on Google's implementation of WebRTC"
+},
+{
+    "Name"            : "wget",
+    "Description"     : "Network utility to retrieve files from the Web"
+},
+{
+    "Name"            : "which",
+    "Description"     : "A utility to show the full path of commands"
+},
+{
+    "Name"            : "wireplumber",
+    "Description"     : "Session / policy manager implementation for PipeWire"
+},
+{
+    "Name"            : "wl-clipboard",
+    "Description"     : "Command-line copy/paste utilities for Wayland"
+},
+{
+    "Name"            : "wlogout",
+    "Description"     : "Logout menu for wayland"
+},
+{
+    "Name"            : "wlsunset",
+    "Description"     : "Day/night gamma adjustments for Wayland compositors"
+},
+{
+    "Name"            : "wmctrl",
+    "Description"     : "Control your EWMH compliant window manager from command line"
+},
+{
+    "Name"            : "wofi",
+    "Description"     : "launcher for wlroots-based wayland compositors"
+},
+{
+    "Name"            : "wolfssl",
+    "Description"     : "Lightweight, portable, C-language-based SSL/TLS library"
+},
+{
+    "Name"            : "wpa_supplicant",
+    "Description"     : "A utility providing key negotiation for WPA wireless networks"
+},
+{
+    "Name"            : "x264",
+    "Description"     : "Open Source H264/AVC video encoder"
+},
+{
+    "Name"            : "x265",
+    "Description"     : "Open Source H265/HEVC video encoder"
+},
+{
+    "Name"            : "xapp",
+    "Description"     : "Common library for X-Apps project"
+},
+{
+    "Name"            : "xcb-proto",
+    "Description"     : "XML-XCB protocol descriptions"
+},
+{
+    "Name"            : "xcb-util",
+    "Description"     : "Utility libraries for XC Binding"
+},
+{
+    "Name"            : "xcb-util-cursor",
+    "Description"     : "XCB cursor library"
+},
+{
+    "Name"            : "xcb-util-errors",
+    "Description"     : "XCB errors library"
+},
+{
+    "Name"            : "xcb-util-image",
+    "Description"     : "Utility libraries for XC Binding - Port of Xlib's XImage and XShmImage functions"
+},
+{
+    "Name"            : "xcb-util-keysyms",
+    "Description"     : "Utility libraries for XC Binding - Standard X key constants and conversion to/from keycodes"
+},
+{
+    "Name"            : "xcb-util-renderutil",
+    "Description"     : "Utility libraries for XC Binding - Convenience functions for the Render extension"
+},
+{
+    "Name"            : "xcb-util-wm",
+    "Description"     : "Utility libraries for XC Binding - client and window-manager helpers for ICCCM"
+},
+{
+    "Name"            : "xcur2png",
+    "Description"     : "Convert X cursors to PNG images"
+},
+{
+    "Name"            : "xdg-dbus-proxy",
+    "Description"     : "Filtering proxy for D-Bus connections"
+},
+{
+    "Name"            : "xdg-desktop-portal",
+    "Description"     : "Desktop integration portals for sandboxed apps"
+},
+{
+    "Name"            : "xdg-desktop-portal-hyprland",
+    "Description"     : "xdg-desktop-portal backend for hyprland"
+},
+{
+    "Name"            : "xdg-user-dirs",
+    "Description"     : "Manage user directories like ~/Desktop and ~/Music"
+},
+{
+    "Name"            : "xdg-utils",
+    "Description"     : "Command line tools that assist applications with a variety of desktop integration tasks"
+},
+{
+    "Name"            : "xf86-input-libinput",
+    "Description"     : "Generic input driver for the X.Org server based on libinput"
+},
+{
+    "Name"            : "xkeyboard-config",
+    "Description"     : "X keyboard configuration files"
+},
+{
+    "Name"            : "xorg-fonts-encodings",
+    "Description"     : "X.org font encoding files"
+},
+{
+    "Name"            : "xorg-server",
+    "Description"     : "Xorg X server"
+},
+{
+    "Name"            : "xorg-server-common",
+    "Description"     : "Xorg server common files"
+},
+{
+    "Name"            : "xorg-setxkbmap",
+    "Description"     : "Set the keyboard using the X Keyboard Extension"
+},
+{
+    "Name"            : "xorg-xauth",
+    "Description"     : "X.Org authorization settings program"
+},
+{
+    "Name"            : "xorg-xhost",
+    "Description"     : "Server access control program for X"
+},
+{
+    "Name"            : "xorg-xinput",
+    "Description"     : "Small commandline tool to configure devices"
+},
+{
+    "Name"            : "xorg-xkbcomp",
+    "Description"     : "X Keyboard description compiler"
+},
+{
+    "Name"            : "xorg-xprop",
+    "Description"     : "Property displayer for X"
+},
+{
+    "Name"            : "xorg-xrandr",
+    "Description"     : "Primitive command line interface to RandR extension"
+},
+{
+    "Name"            : "xorg-xset",
+    "Description"     : "User preference utility for X"
+},
+{
+    "Name"            : "xorg-xwayland",
+    "Description"     : "run X clients under wayland"
+},
+{
+    "Name"            : "xorgproto",
+    "Description"     : "combined X.Org X11 Protocol headers"
+},
+{
+    "Name"            : "xvidcore",
+    "Description"     : "XviD is an open source MPEG-4 video codec"
+},
+{
+    "Name"            : "xxhash",
+    "Description"     : "Extremely fast non-cryptographic hash algorithm"
+},
+{
+    "Name"            : "xz",
+    "Description"     : "Library and command line tools for XZ and LZMA compressed files"
+},
+{
+    "Name"            : "yajl",
+    "Description"     : "Yet Another JSON Library"
+},
+{
+    "Name"            : "yay-bin",
+    "Description"     : "Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled."
+},
+{
+    "Name"            : "zeromq",
+    "Description"     : "Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ."
+},
+{
+    "Name"            : "zimg",
+    "Description"     : "Scaling, colorspace conversion, and dithering library"
+},
+{
+    "Name"            : "zip",
+    "Description"     : "Compressor/archiver for creating and modifying zipfiles"
+},
+{
+    "Name"            : "zlib",
+    "Description"     : "Compression library implementing the deflate compression method found in gzip and PKZIP"
+},
+{
+    "Name"            : "zsh",
+    "Description"     : "A very advanced and programmable command interpreter (shell) for UNIX"
+},
+{
+    "Name"            : "zsh-completions",
+    "Description"     : "Additional completion definitions for Zsh"
+},
+{
+    "Name"            : "zstd",
+    "Description"     : "Zstandard - Fast real-time compression algorithm"
+},

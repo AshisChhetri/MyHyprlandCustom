@@ -1,0 +1,225 @@
+2024-02-11 14:37:42.561 [info] Extension host with pid 79763 started
+2024-02-11 14:37:42.561 [info] Skipping acquiring lock for /home/ashisthapa/.config/Code/User/workspaceStorage/b4736084816ab7b0d8dc4efc40f7ebfc.
+2024-02-11 14:37:42.609 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-11 14:37:42.611 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+2024-02-11 14:37:42.626 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-02-11 14:37:42.628 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-02-11 14:37:42.646 [info] ExtensionService#_doActivateExtension WallabyJs.wallaby-vscode, startup: true, activationEvent: '*'
+2024-02-11 14:37:42.732 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-11 14:37:42.761 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-11 14:37:42.926 [info] Eager extensions activated
+2024-02-11 14:37:42.941 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-11 14:37:42.975 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 14:37:42.977 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 14:37:42.984 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 14:37:43.003 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 14:37:43.008 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 14:37:43.017 [info] ExtensionService#_doActivateExtension ReacTreeDev.reactree, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 14:37:43.024 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-11 14:37:43.097 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2024-02-11 14:37:43.223 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-11 14:42:36.034 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-11 14:48:12.432 [info] ExtensionService#_doActivateExtension DiemasMichiels.emulate, startup: false, activationEvent: 'onCommand:emulator.start'
+2024-02-11 14:49:23.774 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-11 14:49:23.848 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-11 16:00:39.878 [info] ExtensionService#_doActivateExtension docsmsft.docs-markdown, startup: false, activationEvent: 'onLanguage:yaml'
+2024-02-11 16:00:39.970 [info] ExtensionService#_doActivateExtension docsmsft.docs-preview, startup: false, activationEvent: 'onLanguage:yaml'
+2024-02-11 16:27:08.098 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'onLanguage:dart'
+2024-02-11 16:27:08.407 [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+2024-02-11 16:30:05.785 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-11 16:30:05.945 [warning] Canceled
+2024-02-11 16:30:05.962 [error] Canceled: Canceled
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at setCommandVisiblity (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13901:22)
+	at Object.<anonymous> (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13883:9)
+	at Generator.next (<anonymous>)
+	at /home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13020:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.1892.__awaiter (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13016:12)
+	at Object.deactivate (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13882:12)
+	at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9679)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-02-11 16:30:05.963 [error] Canceled: Canceled
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at setCommandVisiblity (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13902:22)
+	at Object.<anonymous> (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13883:9)
+	at Generator.next (<anonymous>)
+	at /home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13020:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.1892.__awaiter (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13016:12)
+	at Object.deactivate (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13882:12)
+	at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9679)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-02-11 16:30:05.963 [error] Canceled: Canceled
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at setCommandVisiblity (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13903:22)
+	at Object.<anonymous> (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13883:9)
+	at Generator.next (<anonymous>)
+	at /home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13020:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.1892.__awaiter (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13016:12)
+	at Object.deactivate (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13882:12)
+	at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9679)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-02-11 16:30:05.963 [error] Canceled: Canceled
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at setCommandVisiblity (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13904:22)
+	at Object.<anonymous> (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13883:9)
+	at Generator.next (<anonymous>)
+	at /home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13020:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.1892.__awaiter (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13016:12)
+	at Object.deactivate (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13882:12)
+	at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9679)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-02-11 16:30:05.964 [error] Canceled: Canceled
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at N._setContext (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:122853)
+	at N.<anonymous> (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:95360)
+	at Generator.next (<anonymous>)
+	at /home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:20643
+	at new Promise (<anonymous>)
+	at i (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:20391)
+	at N.stop (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:95306)
+	at Object.dispose (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:46364)
+	at /home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:20288
+	at Array.forEach (<anonymous>)
+	at t.exports.dispose (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:20275)
+	at N.deactivate (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:54422)
+	at Object.dispose (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:4413)
+	at /home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:20288
+	at Array.forEach (<anonymous>)
+	at t.exports.dispose (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:20275)
+	at m.deactivate (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:19278)
+	at Object.dispose (/home/ashisthapa/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.371/dist/index.js:15:1179)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at g.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6375)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-02-11 16:30:06.073 [error] Canceled: Canceled
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at Object.<anonymous> (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13890:26)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13017:58) setContext undefined
+2024-02-11 16:30:06.074 [error] Canceled: Canceled
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at Object.<anonymous> (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13892:30)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13017:58) setContext undefined
+2024-02-11 16:30:06.074 [error] Canceled: Canceled
+	at new f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at Object.<anonymous> (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13893:30)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/ashisthapa/.vscode/extensions/dart-code.dart-code-3.82.0/out/dist/extension.js:13017:58) setContext undefined
+2024-02-11 16:30:06.074 [info] Extension host with pid 79763 exiting with code 0

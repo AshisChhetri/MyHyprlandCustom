@@ -1,0 +1,26 @@
+2024-02-17 20:40:11.114 [info] Log level: Info
+2024-02-17 20:40:11.114 [info] Validating found git in: "git"
+2024-02-17 20:40:11.114 [info] Using git "2.42.0" from "git"
+2024-02-17 20:40:11.114 [info] > git rev-parse --show-toplevel [12ms]
+2024-02-17 20:40:11.114 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-17 20:40:11.114 [info] Open repository: /home/ashisthapa/Workspace/E-Commerce
+2024-02-17 20:40:11.116 [info] > git rev-parse --show-toplevel [40ms]
+2024-02-17 20:40:11.117 [info] > git config --get commit.template [62ms]
+2024-02-17 20:40:11.358 [info] No remotes found in the git config file.
+2024-02-17 20:40:11.364 [info] > git rev-parse --show-toplevel [216ms]
+2024-02-17 20:40:11.468 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [112ms]
+2024-02-17 20:40:11.492 [info] > git status -z -uall [9ms]
+2024-02-17 20:40:11.500 [info] > git rev-parse --show-toplevel [43ms]
+2024-02-17 20:40:11.551 [info] > git rev-parse --show-toplevel [31ms]
+2024-02-17 20:40:11.619 [info] > git config --get commit.template [70ms]
+2024-02-17 20:40:11.670 [info] > git check-ignore -v -z --stdin [89ms]
+2024-02-17 20:40:11.680 [info] > git rev-parse --show-toplevel [84ms]
+2024-02-17 20:40:11.694 [info] No remotes found in the git config file.
+2024-02-17 20:40:11.698 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-17 20:40:11.728 [info] > git status -z -uall [16ms]
+2024-02-17 20:40:12.231 [info] > git show --textconv :src/app/navbar/navbar.component.ts [17ms]
+2024-02-17 20:40:12.279 [info] > git show --textconv :src/app/app.routes.ts [30ms]
+2024-02-17 20:40:12.280 [info] > git ls-files --stage -- /home/ashisthapa/Workspace/E-Commerce/src/app/navbar/navbar.component.ts [50ms]
+2024-02-17 20:40:12.298 [info] > git ls-files --stage -- /home/ashisthapa/Workspace/E-Commerce/src/app/app.routes.ts [24ms]
+2024-02-17 20:40:12.312 [info] > git cat-file -s c79e4ca6833777d8ae22ca062c6ba678d4cafc19 [15ms]
+2024-02-17 20:40:12.315 [info] > git cat-file -s 7bfd00acf6d200d6d6be9d0a410144d62adc2126 [5ms]

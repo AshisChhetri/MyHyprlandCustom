@@ -1,0 +1,16 @@
+
+.profile{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:20px
+
+}
+img {
+    border:0px solid rgba(0, 0, 0, 0);
+    box-shadow: 10px 5px #3d3d3d;
+    border-radius: 15% 40% 15% 40%;
+    width: 25rem;
+    height: 25rem;
+
+}

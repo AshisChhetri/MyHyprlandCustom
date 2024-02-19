@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>responsive Colm</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+            background-color: rgb(182, 182, 182);
+        }
+        div{
+            display: block;
+            align-items: center;
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+            background-color: rgb(255, 255, 255);
+            overflow: hidden;
+        }
+         h2{
+            text-align: center;
+            margin-right: 20px;
+            margin-left: 20px;
+            margin-block: 0px;
+        }
+ 
+        ul{
+            box-sizing: border-box;
+            margin: 10px;
+            padding: 0px;
+            width: 100%;
+            list-style: none;
+            /* margin-block-start: 0px; */
+            margin-inline-start: 10px;
+            margin-inline-end: 10px;
+
+            /* overflow: hidden; */
+            background-image:linear-gradient(to right,rgb(112, 112, 112), rgb(201, 201, 201));
+        }
+
+
+        li{
+            display: inline-block;
+            width: 25%;
+            /* float: left; */
+            /* padding-left: 20px; */
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        h4,p{
+            margin-block: 0px;
+            padding-left: 20px;
+        }
+
+
+        @media screen and (max-width:800px) {
+            li{
+                /* display: inline-block; */
+                width: 50%;
+            }
+        }
+
+        @media screen and (max-width:530px) {
+            li{
+                /* display: inline-block; */
+                width: 100%;
+            }
+        }
+
+
+    </style>
+</head>
+<body>
+    
+        <h2>Media Query</h2>
+        
+            <ul>
+                <li class="box">
+                    <h4>Name1</h4>
+                    <p>I am Ram</p>
+                </li><li class="box">
+                    <h4>Name2</h4>
+                    <p>I am Sita</p>
+                </li><li class="box">
+                    <h4>Name3</h4>
+                    <p>I am Hari</p>
+                </li><li class="box">
+                    <h4>Name4</h4>
+                    <p>I am Ashis</p>
+                </li>
+            </ul>
+</body>
+</html>

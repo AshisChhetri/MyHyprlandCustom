@@ -1,0 +1,6 @@
+Using Angular version 17.0.5.
+[Info  - 8:40:11 PM] Angular language server process ID: 25535
+[Info  - 8:40:11 PM] Imported typescript/lib/tsserverlibrary is version 5.3.2.
+[Info  - 8:40:11 PM] Using @angular/language-service v17.2.1 from /home/ashisthapa/.vscode/extensions/angular.ng-template-17.2.2/node_modules/@angular/language-service/index.js
+[Info  - 8:40:11 PM] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 8:40:14 PM] Enabling language service for /home/ashisthapa/Workspace/E-Commerce/tsconfig.json.

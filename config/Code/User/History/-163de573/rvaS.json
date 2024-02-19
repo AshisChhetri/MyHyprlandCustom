@@ -1,0 +1,10 @@
+{
+    "workbench.startupEditor": "none",
+    "window.menuBarVisibility": "toggle",
+    "editor.guides.bracketPairs": "active",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', 'monospace','GoMono Nerd Font Mono'",
+    "editor.fontLigatures": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false
+}

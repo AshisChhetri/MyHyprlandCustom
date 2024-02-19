@@ -1,0 +1,7 @@
+2024-02-14 02:25:31.507 [info] Started local extension host with pid 7463.
+2024-02-14 02:25:33.224 [error] [Extension Host] GlassIt error: Error: Command failed: swaymsg opacity 0.59
+/bin/sh: line 1: swaymsg: command not found
+
+2024-02-14 02:25:33.996 [error] [Extension Host] (node:7463) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-14 02:25:35.307 [info] [perf] Render performance baseline is 58ms

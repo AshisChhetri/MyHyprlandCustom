@@ -1,0 +1,8 @@
+2024-02-12 12:47:20.074 [info] Started local extension host with pid 3705.
+2024-02-12 12:47:21.990 [error] [Extension Host] GlassIt error: Error: Command failed: swaymsg opacity 0.59
+/bin/sh: line 1: swaymsg: command not found
+
+2024-02-12 12:47:22.463 [error] [Extension Host] (node:3705) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-12 12:47:25.048 [info] [perf] Render performance baseline is 162ms
+2024-02-12 13:11:26.249 [warning] [mainThreadStorage] large extension state detected (extensionId: docsmsft.docs-markdown, global: true): 2178.59375kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.

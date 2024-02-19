@@ -1,0 +1,4 @@
+[Error - 2:44:53 PM] Request textDocument/hover failed.
+  Message: Analysis failed for file
+  Code: -32013 
+/home/ashisthapa/Workspace/FlutterPj/test2/lib/main.dart

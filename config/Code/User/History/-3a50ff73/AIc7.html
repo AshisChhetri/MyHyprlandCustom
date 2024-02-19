@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Form</title>
+    <link rel="stylesheet" href="payment_form.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <div class="dropdown">
+            <div class="dropbtn">Learned</div>
+            <div class="dropdown-content">
+                <a href="/learned_html/html01.html">HTML</a>
+                <a href="/learned_css/css01.html">CSS</a>
+                <a href="payment_form.html">Payment form</a>
+            </div>
+        </div>
+        <a>College Review</a>
+        <a>Courses</a>
+        <a>Study Materials</a>
+        <a>Login/SignUp</a>
+    </nav>
+
+    <div class="container">
+        <form action="" method="get">    
+            <h1>Payment Form</h1>
+            <hr>
+            <h2>User informantion</h2>
+            <div class="name">
+                <input type="text" name="first name">
+                <input type="text" name="last name">
+            </div>
+            <fieldset>
+                <legend>Gender</legend>
+                <input type="radio" name="male" id="male">male</input>
+                <input type="radio" name="female" id="female">female</input>
+            </fieldset>
+            <address>
+                Address: 
+                <textarea placeholder="addresss" name="address" id="" cols="30" rows="10"></textarea>
+            </address>
+            <div>
+                Email:
+                <input type="email" name="email" id="email">
+            </div>
+            <div>
+                Pincode:
+                <input type="number" name="pincode" id="pincode">
+            </div>
+            
+        </form>
+    </div >
+</body>
+
+</html>

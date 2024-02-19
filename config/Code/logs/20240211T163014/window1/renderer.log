@@ -1,0 +1,19 @@
+2024-02-11 16:30:15.738 [info] Started local extension host with pid 130062.
+2024-02-11 16:30:17.379 [error] [Extension Host] GlassIt error: Error: Command failed: swaymsg opacity 0.59
+/bin/sh: line 1: swaymsg: command not found
+
+2024-02-11 16:30:18.222 [error] [Extension Host] (node:130062) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-11 16:30:19.476 [info] [perf] Render performance baseline is 50ms
+2024-02-11 16:30:43.503 [error] Cancelled: Canceled
+    at re.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:32466)
+    at async re.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:29361)
+    at async ne (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:28369)
+    at async re.query (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:28590)
+    at async oe.queryGallery (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:11958)
+    at async de.Ac (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:22427)
+    at async de.lc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:14478)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:12777
+2024-02-11 16:32:40.655 [info] Extension host (LocalProcess pid: 130062) is unresponsive.
+2024-02-11 16:32:40.680 [info] Extension host (LocalProcess pid: 130062) is responsive.
+2024-02-11 16:32:40.887 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

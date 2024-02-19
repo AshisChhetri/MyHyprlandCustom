@@ -1,0 +1,31 @@
+2024-02-11 19:19:37.732 [info] Session updated: AshisChhetri (github) (service=false)
+2024-02-11 19:19:37.733 [info] Session token updated: AshisChhetri (github)
+2024-02-11 19:19:37.928 [info] No other tunnel running
+2024-02-11 19:19:38.005 [info] Running tunnel CLI
+
+2024-02-11 19:19:38.005 [info] tunnel Spawning: /opt/visual-studio-code/bin/code-tunnel tunnel --accept-server-license-terms --log info --name macro --parent-process-id 2069
+
+2024-02-11 19:19:38.031 [info] *
+
+2024-02-11 19:19:38.033 [info] * Visual Studio Code Server
+
+2024-02-11 19:19:38.034 [info] *
+
+2024-02-11 19:19:38.034 [info] * By using the software, you agree to
+
+2024-02-11 19:19:38.035 [info] * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+
+2024-02-11 19:19:38.035 [info] * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+
+2024-02-11 19:19:38.035 [info] *
+
+2024-02-11 19:20:04.427 [info] 
+
+2024-02-11 19:20:04.428 [info] Open this link in your browser https://vscode.dev/tunnel/macro
+
+2024-02-11 19:20:04.428 [info] 
+
+2024-02-11 20:20:14.420 [info] [2024-02-11 20:20:14] info [tunnels::connections::ws] websocket pong timed out, closing
+
+2024-02-11 20:20:14.422 [info] [2024-02-11 20:20:14] warn Tunnel exited unexpectedly but gracefully, reconnecting
+

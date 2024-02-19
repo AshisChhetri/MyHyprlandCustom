@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>responsive Colm</title>
+    <style>
+        ul{
+            list-style: none;
+            margin-block: 0px;
+            padding-inline: 0px;
+
+        }
+        h2{
+            text-align: center;
+        }
+        ul li{
+            display: inline-block;
+            background-image: linear-gradient(to right, rgb(145, 145, 145),rgb(202, 202, 202));
+            width: 25%;
+        }
+
+        h4, p{
+            padding-left: 20px;
+        }
+
+
+        @media screen and (max-width:800px) {
+            li{
+                /* display: inline-block; */
+                width: 50%;
+            }
+        }
+
+        @media screen and (max-width:530px) {
+            li{
+                /* display: inline-block; */
+                width: 100%;
+            }
+        }
+
+
+    </style>
+</head>
+<body>
+    <div>
+        <h2>Media Query</h2>
+        
+            <ul>
+                <li class="box">
+                    <h4>Name1</h4>
+                    <p>I am Ram</p>
+                </li><li class="box">
+                    <h4>Name2</h4>
+                    <p>I am Sita</p>
+                </li><li class="box">
+                    <h4>Name3</h4>
+                    <p>I am Hari</p>
+                </li><li class="box">
+                    <h4>Name4</h4>
+                    <p>I am Ashis</p>
+                </li>
+            </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,47 @@
+2024-02-11 14:37:43.278 [info] Session updated: AshisChhetri (github) (service=false)
+2024-02-11 14:37:43.278 [info] Session token updated: AshisChhetri (github)
+2024-02-11 14:37:43.429 [info] No other tunnel running
+2024-02-11 14:37:43.468 [info] Running tunnel CLI
+
+2024-02-11 14:37:43.468 [info] tunnel Spawning: /opt/visual-studio-code/bin/code-tunnel tunnel --accept-server-license-terms --log info --name macro --parent-process-id 79735
+
+2024-02-11 14:37:43.496 [info] *
+
+2024-02-11 14:37:43.496 [info] * Visual Studio Code Server
+
+2024-02-11 14:37:43.496 [info] *
+
+2024-02-11 14:37:43.496 [info] * By using the software, you agree to
+
+2024-02-11 14:37:43.496 [info] * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+
+2024-02-11 14:37:43.497 [info] * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+
+2024-02-11 14:37:43.497 [info] *
+
+2024-02-11 14:37:47.210 [info] 
+
+2024-02-11 14:37:47.210 [info] Open this link in your browser https://vscode.dev/tunnel/macro
+
+2024-02-11 14:37:47.210 [info] 
+
+2024-02-11 14:54:57.790 [info] [2024-02-11 14:54:57] info [tunnels::connections::ws] websocket pong timed out, closing
+
+2024-02-11 14:54:57.792 [info] [2024-02-11 14:54:57] warn Tunnel exited unexpectedly but gracefully, reconnecting
+
+2024-02-11 15:05:17.988 [info] [2024-02-11 15:05:17] info [tunnels::connections::ws] websocket pong timed out, closing
+
+2024-02-11 15:05:17.994 [info] [2024-02-11 15:05:17] warn Tunnel exited unexpectedly but gracefully, reconnecting
+
+2024-02-11 15:41:40.314 [info] [2024-02-11 15:41:40] info [tunnels::connections::ws] websocket pong timed out, closing
+
+2024-02-11 15:41:40.315 [info] [2024-02-11 15:41:40] warn Tunnel exited unexpectedly but gracefully, reconnecting
+
+2024-02-11 16:15:10.368 [info] [2024-02-11 16:15:10] info [tunnels::connections::ws] websocket pong timed out, closing
+
+2024-02-11 16:15:10.373 [info] [2024-02-11 16:15:10] warn Tunnel exited unexpectedly but gracefully, reconnecting
+
+2024-02-11 16:21:37.647 [info] [2024-02-11 16:21:37] info [tunnels::connections::ws] websocket pong timed out, closing
+
+2024-02-11 16:21:37.647 [info] [2024-02-11 16:21:37] warn Tunnel exited unexpectedly but gracefully, reconnecting
+

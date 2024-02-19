@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex property</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size:20px;
+            padding: 0 20px 30px 0;
+            line-height: 1.4;
+        }
+        .flex-container-row{
+            display: flex;
+            height: 800px;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-items:center;
+            justify-content: center;
+        }
+        .flex-container-row-reverse{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            justify-content: space-between;
+            
+        }
+        .flex-container-colm{
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            
+        }
+        .flex-container-colm-reverse{
+            display: flex;
+            flex-direction: column-reverse;
+        }
+
+        .flex-item{
+
+            /* justify-self: stretch; */
+            /* flex-grow: 1; */
+            width:75px;
+            /* height:75px; */
+            margin: 5px;
+            background-color: lightskyblue;
+            border:2px solid darkblue;
+            color: white;
+            font-size: 2em;
+            font-weight: bold;
+            line-height: 1.4;
+            /* text-align: center; */
+        }
+        .flex-container-row-reverse #flex-item-3{
+            /* flex-wrap: wrap; */
+            /* flex-grow:2; */
+            align-self:end ;
+            order:5;
+            flex-shrink: 1;
+        }
+        .flex-container-row-reverse #flex-item-2{
+            /* flex-wrap: wrap; */
+            /* flex-grow:2; */
+            order: 4;
+            flex-shrink: 3;
+            flex-basis: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex-container-row">
+        <div class="flex-item" id="flex-item-1">1</div>
+        <div class="flex-item" id="flex-item-2">2</div>
+        <div class="flex-item" id="flex-item-3">3</div>
+        <div class="flex-item" id="flex-item-4">4</div>
+        <div class="flex-item" id="flex-item-5">5</div>
+    </div>
+    
+    <div class="flex-container-row-reverse">
+        <div class="flex-item" id="flex-item-1">1</div>
+        <div class="flex-item" id="flex-item-2">2</div>
+        <div class="flex-item" id="flex-item-3">3</div>
+        <div class="flex-item" id="flex-item-4">4</div>
+        <div class="flex-item" id="flex-item-5">5</div>
+    </div>
+    <!--
+    <div class="flex-container-colm">
+        <div class="flex-item" id="flex-item-1">1</div>
+        <div class="flex-item" id="flex-item-2">2</div>
+        <div class="flex-item" id="flex-item-3">3</div>
+        <div class="flex-item" id="flex-item-4">4</div>
+        <div class="flex-item" id="flex-item-5">5</div>
+    </div>
+    <div class="flex-container-colm-reverse">
+        <div class="flex-item" id="flex-item-1">1</div>
+        <div class="flex-item" id="flex-item-2">2</div>
+        <div class="flex-item" id="flex-item-3">3</div>
+        <div class="flex-item" id="flex-item-4">4</div>
+        <div class="flex-item" id="flex-item-5">5</div>
+    </div> -->
+</body>
+</html>

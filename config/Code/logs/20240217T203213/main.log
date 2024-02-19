@@ -1,0 +1,10 @@
+2024-02-17 20:32:13.712 [info] update#setState idle
+2024-02-17 20:32:43.713 [info] update#setState checking for updates
+2024-02-17 20:32:43.987 [info] update#setState available for download
+2024-02-17 20:40:13.193 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 2, moduleId: vs/platform/files/node/watcher/watcherMain)
+2024-02-17 20:40:13.211 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-02-17 20:40:13.214 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 25467]: crashed with code 15 and reason 'killed'
+2024-02-17 20:40:36.362 [info] Extension host with pid 25457 exited with code: 0, signal: unknown.
+2024-02-17 20:40:36.378 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 25760]: crashed with code 15 and reason 'killed'
+2024-02-17 20:51:35.257 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 21429]: crashed with code 15 and reason 'killed'
+2024-02-17 20:51:35.283 [info] Extension host with pid 21430 exited with code: 0, signal: unknown.

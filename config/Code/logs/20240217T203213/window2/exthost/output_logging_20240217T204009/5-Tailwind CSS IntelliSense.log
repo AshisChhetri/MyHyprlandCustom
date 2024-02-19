@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/ashisthapa/Workspace/E-Commerce","configPath":"/home/ashisthapa/Workspace/E-Commerce/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/ashisthapa/Workspace/E-Commerce/tailwind.config.js","priority":0},{"pattern":"/home/ashisthapa/Workspace/E-Commerce/src/**/*.{html,ts}","priority":1},{"pattern":"/home/ashisthapa/Workspace/E-Commerce/**","priority":3}]}]
+[Global] Adding watch patterns: /home/ashisthapa/Workspace/E-Commerce/tailwind.config.js, /home/ashisthapa/Workspace/E-Commerce
+[tailwind.config.js] Initializing...
+[tailwind.config.js] Loaded Tailwind CSS config file: /home/ashisthapa/Workspace/E-Commerce/tailwind.config.js
+[tailwind.config.js] Loaded postcss v8.4.32: /home/ashisthapa/Workspace/E-Commerce/node_modules/postcss
+[tailwind.config.js] Loaded tailwindcss v3.3.5: /home/ashisthapa/Workspace/E-Commerce/node_modules/tailwindcss
+[tailwind.config.js] Building...
